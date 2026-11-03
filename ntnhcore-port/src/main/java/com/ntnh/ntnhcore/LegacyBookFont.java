@@ -6,10 +6,13 @@ import funwayguy.betterquesting.client.text.FontAtlas;
 /** BQ's standalone AWT font atlas is independent of the Minecraft font resource providers. */
 final class LegacyBookFont {
     static void install(){
-        try(var stream=LegacyBookFont.class.getResourceAsStream("/assets/ntnhcore/font/PressStart2P-Regular.ttf")){
-            if(stream==null)throw new IllegalStateException("Missing licensed NTSD book font");
-            FontAtlas.DEFAULT.changeFont(new PixelFace(Font.createFont(Font.TRUETYPE_FONT,stream).deriveFont(8f)));
-        }catch(java.io.IOException|java.awt.FontFormatException error){throw new IllegalStateException("Cannot load licensed NTSD book font",error);}
+        try {
+            FontAtlas.DEFAULT.changeFont(new PixelFace(InstalledBookGlyphs.create()));
+        }catch(Exception error){
+            // Keep Better Questing usable if a player's resource pack removes a required provider.
+            // Press Start 2P and the disputed legacy font are not bundled or selected as fallbacks.
+            org.slf4j.LoggerFactory.getLogger("ntnhcore").error("Cannot create book font from installed resources; retaining Better Questing's font",error);
+        }
     }
     /** FontAtlas otherwise synthesizes bold at size+1, distorting the pixel grid. */
     private static final class PixelFace extends Font {

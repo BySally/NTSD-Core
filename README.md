@@ -1,25 +1,42 @@
 # Nuclear Tech: Second Dawn — Core
 
-**0.1.0-ntsd-cf3 — BySally, Project Creator & Maintainer.**
+**0.1.0-ntsd-cf4 — BySally, Project Creator & Maintainer.**
 
-Quest, progression, and technology integrations for Nuclear Tech: Second Dawn on Forge 1.20.1.
+Quest, progression and technology integrations for Nuclear Tech: Second Dawn on
+Minecraft 1.20.1, Forge 47.4.28 and Java 17. Technical Mod ID: `ntnhcore`.
 
-Part of the official Nuclear Tech: Second Dawn component ecosystem, maintained primarily for NTSD. NTSD is an independent community project, not an official Minecraft, Mojang, HBM or original NTNH product. No upstream endorsement is implied.
+## Exact corresponding source
 
-## Source for this version
+- [Versioned CF4 source tree](https://github.com/BySally/NTSD-Core/tree/v0.1.0-ntsd-cf4/ntnhcore-port)
+- [Original CF4 corresponding-source ZIP](https://github.com/BySally/NTSD-Core/releases/download/v0.1.0-ntsd-cf4/ntnhcore-0.1.0-ntsd-cf4-corresponding-source.zip)
+- [Build instructions](BUILDING.md) · [Licenses](LICENSES.md) · [Credits](CREDITS.md)
 
-Exact source/build inputs are in `ntnhcore-port/`. See `BUILDING.md`, `VERSION`, `LICENSE`, `LICENSES.md`, `NOTICE` and `CREDITS.md`. The original runtime JAR corresponding to this tree has SHA-256 **`81131af2b77e104e4f13e3a4adcf8d39e42887d8bc0a36b0fc2d78156ab070c4`**. Source archive SHA-256: **`4f28bff6cd34fed3dc835b3745a1c0461041e472813f64cac8960ec5f69d5138`**. No dependency gameplay JARs, credentials, user-specific paths or build caches are included. The standard unmodified Gradle wrapper is included under its separate build-tool license.
+The `ntnhcore-port/` subtree contains all **1,358 files byte-for-byte** from the
+corresponding-source archive used for the tested CF4 build. Its unmodified Gradle
+wrapper and build-tool notices are included; dependency mod binaries and build
+caches are excluded. [SOURCE_RELEASE.json](SOURCE_RELEASE.json) records the version
+and digests. A prior clean Java 17 rebuild matched every class and resource in the
+distributed JAR; only generated manifest build timestamps may differ.
 
-Technical mod ID remains ntnhcore; CF3 only cleans four source-provenance strings and updates version metadata. Core retains mixed code/resource license scopes and the existing PNC fix. This is not a complete NTNH port.
+```text
+JAR SHA-256:    4a4919433050c87421eeacfef882d8c5e5cdd0e7f9880b8526724d497883a6c0
+Source SHA-256: 6efac932c546dcbd89b14d5824ddf13ec6bf22bb600bdc667aded73b0a117307
+```
 
-## Project links
+CF4 restores the owner-approved thin questbook font A through a book-only adapter
+which reads installed Minecraft font providers into memory. It includes no font
+dataset and makes no global Minecraft font override. Existing game IDs, quests,
+recipes and progression remain unchanged. The CF3 privacy cleanup and targeted
+PneumaticCraft 6.0.23 Drone Interface repair are retained. This is not a complete
+NTNH port or a guarantee of compatibility with every older world.
 
-- [NTSD website](https://bysally.github.io/NTSD/)
-- [NTSD project](https://github.com/BySally/NTSD)
-- [Issues](https://github.com/BySally/NTSD/issues)
+The [CF3 tag](https://github.com/BySally/NTSD-Core/tree/v0.1.0-ntsd-cf3) remains
+available for the older binary; do not use CF3 sources as the CF4 source.
 
-**BySally — Creator & Maintainer of Nuclear Tech: Second Dawn.**
-
-Version-matched source: [v0.1.0-ntsd-cf3](https://github.com/BySally/NTSD-Core/tree/v0.1.0-ntsd-cf3/ntnhcore-port). The release source archive is provided for the matching binary.
-
-NTSD presentation artwork, where shown, was AI-generated with OpenAI under BySally's direction. This does not automatically establish exclusive copyright or relicense third-party references.
+Part of [Nuclear Tech: Second Dawn](https://github.com/BySally/NTSD).
+[Website](https://bysally.github.io/NTSD/) · [Issues](https://github.com/BySally/NTSD/issues).
+NTSD is an independent community project, not an official Minecraft, Mojang, HBM
+or original NTNH product. Upstream credit does not imply endorsement. Mixed code
+and resource licenses remain in effect. NTSD artwork, where shown, was AI-generated
+with OpenAI under BySally's direction; this does not establish exclusive copyright
+in every generated element.

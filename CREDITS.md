@@ -13,8 +13,7 @@ NTSD is an independent community adaptation, not an official Minecraft, Mojang, 
 - **Warfactory, TheOriginalGolem, MisterNorwood, movblock and Continuum contributors** — [NTM Continuum](https://github.com/Warfactory-Official/NTM-Continuum).
 - **JamesH_2, Mellow and Space contributors** — [NTM Continuum Space](https://github.com/Warfactory-Official/NTM-Continuum-Space).
 - **AlgorithmX2 and AE2/GTNH contributors, Sangar and OpenComputers contributors, USRV and EnhancedLootBags contributors, jaquadro and Storage Drawers contributors, AUTOMATIC_MAIDEN and Chisel contributors, ModernMarkings contributors, gcewing/TridentMC and ArchitectureCraft contributors, OBS07/A Port Needed, GlodBlock/ExtendedAE, desht/MineMaarten/PneumaticCraft** — scoped resources/code listed in the retained upstream notices.
-- **Press Start 2P Project Authors / Cody Boisclair** — unmodified font, SIL OFL 1.1.
 
-The original license/copyright notices in `source/notices/` are retained; this list supplements them. `RETAINED_ICON_PROVENANCE.csv` maps the 35 retained icon bytes to their original files.
+Original license and copyright notices are retained in `ntnhcore-port/src/main/resources/META-INF/licenses/` and the original resource inputs. This list supplements those notices. CF4 includes no Press Start 2P or other font dataset; its questbook-only adapter reads the player's installed Minecraft resources at runtime. Those installed game resources retain their original owners and terms.
 
 NTSD presentation illustrations and animation frames: **AI-generated with OpenAI**, created for NTSD under BySally's direction (prompts, concept, selection and processing). This identifies provenance, not a blanket claim of exclusive copyright. Third-party reference rights, where present, remain with their respective owners.

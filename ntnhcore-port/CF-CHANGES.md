@@ -1,8 +1,8 @@
-# NTSD CF2 candidate changes
+# NTSD Core CF4 candidate: font restoration and retained fixes
 
-Existing gameplay IDs, quests, NTNH recipes and progression are unchanged. Core version 0.1.0-ntsd-cf3.
+Existing gameplay IDs, quests, NTNH recipes and progression are unchanged. Core version 0.1.0-ntsd-cf4. The following earlier CF2/CF3 privacy and resource fixes are retained.
 
-- Unmodified OFL Press Start 2P replaces mixed legacy Minecraft/TXLoader font data. No Minecraft font override.
+- CF4 font review candidate: removes Press Start 2P. Better Questing's AWT font is generated in memory from the installed Minecraft 1.20.1 providers. No bundled legacy/Mojang glyph file and no global Minecraft font override. The result is a measured approximation, not an assertion of identical Cyrillic shapes.
 - Three flint textures, four carpet textures, old quest-book texture and fourteen uncertain icon pixel copies replaced with runtime Minecraft texture references. Legacy item IDs remain.
 - Optional third-party language overlays removed; native Core Russian/English strings and quest descriptions are unchanged.
 - Standalone PNC Recipe Fix integrated as the same Drone Interface JSON. A targeted RecipeManager mixin calls PncDroneRecipePatch before parsing, replacing only the exact broken PNC 6.0.23 JSON when PNC and CC:Tweaked are loaded. Custom, valid or removed recipes are untouched. Works independently of saved datapack order.

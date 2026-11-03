@@ -1,0 +1,15 @@
+{
+  "version": "0.1.0-ntsd-cf4",
+  "tag": "v0.1.0-ntsd-cf4",
+  "source_subdirectory": "ntnhcore-port",
+  "source_files": 1358,
+  "source_archive": "ntnhcore-0.1.0-ntsd-cf4-corresponding-source.zip",
+  "source_archive_url": "https://github.com/BySally/NTSD-Core/releases/download/v0.1.0-ntsd-cf4/ntnhcore-0.1.0-ntsd-cf4-corresponding-source.zip",
+  "source_archive_sha256": "6efac932c546dcbd89b14d5824ddf13ec6bf22bb600bdc667aded73b0a117307",
+  "tested_binary": "ntnhcore-0.1.0-ntsd-cf4.jar",
+  "tested_binary_sha256": "4a4919433050c87421eeacfef882d8c5e5cdd0e7f9880b8526724d497883a6c0",
+  "minecraft": "1.20.1",
+  "forge": "47.4.28",
+  "java": 17,
+  "previous_clean_rebuild": "all classes and resources identical; only generated manifest timestamp differs"
+}

@@ -1,0 +1,8 @@
+NTSD Runtime Book adapter, CF4.
+Adapter and font-container encoder source: part of the Core GPL-3.0-or-later code.
+This distribution contains no font TTF, bitmap atlas or unihex data from Minecraft/NTNH.
+Installed game resources are read through Minecraft's ResourceManager and used in memory.
+No generated font is written to disk, sent to the server or packaged with the mod.
+Original game resources retain their original owners and terms. This notice does not
+claim permission to redistribute those resources, or to license them under GPL or CC.
+Resource pack overrides can affect the resulting glyphs. This is a private review candidate.

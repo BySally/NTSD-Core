@@ -1,6 +1,6 @@
 NTSD 0.1.0-alpha.6 CF candidate, 2026-11-02. Project Creator & Maintainer: BySally.
 Core code: GPL-3.0-or-later; retained third-party asset terms in META-INF/licenses.
 Quest adaptation: NTNH / Bufka2011 and contributors, CC BY-NC-SA 4.0 for covered materials; not original NTSD authorship.
-Press Start 2P: Copyright 2012 The Press Start 2P Project Authors, SIL OFL 1.1, unmodified font. https://github.com/google/fonts/tree/main/ofl/pressstart2p
+CF4 private font-restoration candidate: Better Questing reads the player's installed Minecraft 1.20.1 bitmap/unihex resources at runtime. The temporary font is built only in memory. No Press Start 2P or legacy font is included. Mojang's resources remain subject to their original terms and are not relicensed by this mod.
 PNC recipe: desht / MineMaarten, PneumaticCraft Repressurized 6.0.23, GPL-3.0-only. Only malformed wireless-modem ingredient replaced; same ID, conditions, counts and output.
 No Minecraft font glyphs or Improving Minecraft flint pixels are distributed by this candidate.

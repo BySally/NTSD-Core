@@ -1,4 +1,4 @@
-Nuclear Tech: Second Dawn — Core 0.1.0-ntsd-cf3, 2026-11-03.
+Nuclear Tech: Second Dawn — Core 0.1.0-ntsd-cf4, 2026-11-03.
 BySally — Project Creator & Maintainer. Adapted from NTNH/NTNHCore and retained third-party materials.
 See LICENSES.md, CREDITS.md and ntnhcore-port/src/main/resources/META-INF/licenses/ for scoped licenses.
-Four local-user provenance prefixes were removed for CF3; gameplay source/identifiers are unchanged from CF2.
+CF3's cleanup of four local-user provenance prefixes is retained. CF4 restores the approved thin questbook font through an installed-resource runtime adapter; no font dataset is redistributed. Existing game identifiers, quests, recipes and progression are unchanged.
