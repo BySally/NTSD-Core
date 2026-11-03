@@ -1,0 +1,5 @@
+HBM Nuclear Tech Mod, HbmMods and contributors; GNU GPL v3.
+Adapted from supplied HBM-NTM-[1.0.27_X5806_NTNH].jar; TileEntityConverterRfHe, BlockConverterRfHe, CraftingManager.
+Original texture preserved. RF API adapted to Forge Energy; native Continuum power ports used.
+https://github.com/HbmMods/Hbm-s-Nuclear-Tech-GIT
+Corresponding source supplied in developer/ntnhcore-port.

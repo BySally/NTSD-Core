@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FEF",
+    "SWS",
+    "FEF"
+  ],
+  "key": {
+    "F": {
+      "tag": "forge:gems/fluix"
+    },
+    "E": {
+      "item": "ae2:engineering_processor"
+    },
+    "S": {
+      "tag": "forge:ingots/steel"
+    },
+    "W": {
+      "item": "ae2:wireless_receiver"
+    }
+  },
+  "result": {
+    "item": "expatternprovider:wireless_connect",
+    "count": 1
+  }
+}

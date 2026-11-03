@@ -1,0 +1,19 @@
+{
+  "type": "ntnhcore:legacy_backpack",
+  "pattern": [
+    "XXX",
+    "XaX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:sponge"
+    },
+    "a": {
+      "tag": "ntnhcore:legacy_backpacks"
+    }
+  },
+  "result": {
+    "item": "travelersbackpack:sponge"
+  }
+}

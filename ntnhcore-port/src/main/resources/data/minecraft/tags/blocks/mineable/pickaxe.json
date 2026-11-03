@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "ntnhcore:certus_quartz_ore",
+    "ntnhcore:charged_certus_quartz_ore",
+    "ntnhcore:machine_converter_he_rf",
+    "ntnhcore:machine_selenium",
+    "ntnhcore:machine_converter_rf_he"
+  ]
+}

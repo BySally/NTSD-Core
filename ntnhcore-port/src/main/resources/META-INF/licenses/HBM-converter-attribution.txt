@@ -1,0 +1,5 @@
+HBM Nuclear Tech Mod by HbmMods and contributors. Original supplied NTNH build: HBM-NTM-[1.0.27_X5806_NTNH].jar
+Original converter texture copied unchanged: assets/hbm/textures/blocks/machine_converter_he_rf.png
+Behavior reimplemented from the supplied TileEntityConverterHeRf and CraftingManager bytecode, with reference to the supplied classic source.
+HBM Nuclear Tech source and assets: https://github.com/HbmMods/Hbm-s-Nuclear-Tech-GIT (GNU GPL v3).
+Corresponding adapted source is included in developer/ntnhcore-port/src.

@@ -1,0 +1,9 @@
+{
+  "loader": "forge:obj",
+  "model": "ntnhcore:models/block/selenium_piston.obj",
+  "flip_v": true,
+  "ambientocclusion": false,
+  "textures": {
+    "particle": "ntnhcore:block/selenium_piston"
+  }
+}

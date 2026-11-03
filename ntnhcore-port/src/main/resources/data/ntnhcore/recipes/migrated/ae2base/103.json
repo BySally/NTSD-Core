@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "BCB",
+    "DED"
+  ],
+  "key": {
+    "A": {
+      "item": "ae2:quartz_glass"
+    },
+    "B": {
+      "item": "ae2:fluix_glass_cable"
+    },
+    "C": {
+      "item": "ae2:io_port"
+    },
+    "D": {
+      "tag": "c:plates_welded/steel"
+    },
+    "E": {
+      "item": "ae2:engineering_processor"
+    }
+  },
+  "result": {
+    "item": "ae2:spatial_io_port",
+    "count": 1
+  }
+}

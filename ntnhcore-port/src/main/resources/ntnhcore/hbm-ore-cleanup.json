@@ -1,0 +1,426 @@
+[
+  {
+    "name": "OreRareNo",
+    "dimension": "minecraft:overworld",
+    "replacement": "minecraft:stone",
+    "matches": [
+      {
+        "block": "hbm:ore_rare",
+        "properties": {}
+      },
+      {
+        "block": "hbm:ore_rare_deepslate",
+        "properties": {}
+      }
+    ],
+    "source_replaces": [
+      "hbm:tile.ore_rare"
+    ],
+    "source_condition": "dimension == 0"
+  },
+  {
+    "name": "Mun_Cleanup",
+    "dimension": "ntmspace:mun",
+    "replacement": "ntmspace:moon_rock",
+    "matches": [
+      {
+        "block": "ntmspace:ore_iron",
+        "properties": {
+          "body": "mun"
+        }
+      },
+      {
+        "block": "ntmspace:ore_quartz",
+        "properties": {
+          "body": "mun"
+        }
+      },
+      {
+        "block": "ntmspace:ore_gold",
+        "properties": {
+          "body": "mun"
+        }
+      },
+      {
+        "block": "ntmspace:ore_redstone",
+        "properties": {
+          "body": "mun"
+        }
+      },
+      {
+        "block": "ntmspace:ore_diamond",
+        "properties": {
+          "body": "mun"
+        }
+      },
+      {
+        "block": "ntmspace:ore_cinnebar",
+        "properties": {
+          "body": "mun"
+        }
+      }
+    ],
+    "source_replaces": [
+      "hbm:tile.ore_iron:2",
+      "hbm:tile.ore_quartz:2",
+      "hbm:tile.ore_gold:2",
+      "hbm:tile.ore_redstone:2",
+      "hbm:tile.ore_diamond:2",
+      "hbm:tile.ore_cinnebar:2"
+    ],
+    "source_condition": "dimension == 15"
+  },
+  {
+    "name": "Minmus_Cleanup",
+    "dimension": "ntmspace:minmus",
+    "replacement": "ntmspace:minmus_stone",
+    "matches": [
+      {
+        "block": "ntmspace:ore_iron",
+        "properties": {
+          "body": "minmus"
+        }
+      },
+      {
+        "block": "ntmspace:ore_diamond",
+        "properties": {
+          "body": "minmus"
+        }
+      },
+      {
+        "block": "ntmspace:ore_gold",
+        "properties": {
+          "body": "minmus"
+        }
+      },
+      {
+        "block": "ntmspace:ore_redstone",
+        "properties": {
+          "body": "minmus"
+        }
+      }
+    ],
+    "source_replaces": [
+      "hbm:tile.ore_iron:3",
+      "hbm:tile.ore_diamond:3",
+      "hbm:tile.ore_gold:3",
+      "hbm:tile.ore_redstone:3"
+    ],
+    "source_condition": "dimension == 21"
+  },
+  {
+    "name": "Duna_Cleanup",
+    "dimension": "ntmspace:duna",
+    "replacement": "ntmspace:duna_rock",
+    "matches": [
+      {
+        "block": "ntmspace:ore_iron",
+        "properties": {
+          "body": "duna"
+        }
+      },
+      {
+        "block": "ntmspace:ore_gold",
+        "properties": {
+          "body": "duna"
+        }
+      },
+      {
+        "block": "ntmspace:ore_diamond",
+        "properties": {
+          "body": "duna"
+        }
+      },
+      {
+        "block": "ntmspace:ore_redstone",
+        "properties": {
+          "body": "duna"
+        }
+      }
+    ],
+    "source_replaces": [
+      "hbm:tile.ore_iron:4",
+      "hbm:tile.ore_gold:4",
+      "hbm:tile.ore_diamond:4",
+      "hbm:tile.ore_redstone:4"
+    ],
+    "source_condition": "dimension == 16"
+  },
+  {
+    "name": "Ike_Cleanup",
+    "dimension": "ntmspace:ike",
+    "replacement": "ntmspace:ike_stone",
+    "matches": [
+      {
+        "block": "ntmspace:ore_iron",
+        "properties": {
+          "body": "ike"
+        }
+      },
+      {
+        "block": "ntmspace:ore_gold",
+        "properties": {
+          "body": "ike"
+        }
+      },
+      {
+        "block": "ntmspace:ore_diamond",
+        "properties": {
+          "body": "ike"
+        }
+      },
+      {
+        "block": "ntmspace:ore_redstone",
+        "properties": {
+          "body": "ike"
+        }
+      },
+      {
+        "block": "ntmspace:ore_cinnebar",
+        "properties": {
+          "body": "ike"
+        }
+      }
+    ],
+    "source_replaces": [
+      "hbm:tile.ore_iron:8",
+      "hbm:tile.ore_gold:8",
+      "hbm:tile.ore_diamond:8",
+      "hbm:tile.ore_redstone:8",
+      "hbm:tile.ore_cinnebar:8"
+    ],
+    "source_condition": "dimension == 17"
+  },
+  {
+    "name": "Laythe_Cleanup",
+    "dimension": "ntmspace:laythe",
+    "replacement": "minecraft:stone",
+    "matches": [
+      {
+        "block": "ntmspace:ore_cinnebar",
+        "properties": {
+          "body": "laythe"
+        }
+      }
+    ],
+    "source_replaces": [
+      "hbm:tile.ore_cinnebar:9"
+    ],
+    "source_condition": "dimension == 22"
+  },
+  {
+    "name": "Eve_Cleanup",
+    "dimension": "ntmspace:eve",
+    "replacement": "ntmspace:eve_rock",
+    "matches": [
+      {
+        "block": "ntmspace:ore_iron",
+        "properties": {
+          "body": "eve"
+        }
+      },
+      {
+        "block": "ntmspace:ore_gold",
+        "properties": {
+          "body": "eve"
+        }
+      },
+      {
+        "block": "ntmspace:ore_diamond",
+        "properties": {
+          "body": "eve"
+        }
+      },
+      {
+        "block": "ntmspace:ore_schrabidium",
+        "properties": {
+          "body": "eve"
+        }
+      },
+      {
+        "block": "ntmspace:ore_niobium",
+        "properties": {
+          "body": "eve"
+        }
+      },
+      {
+        "block": "ntmspace:ore_cobalt",
+        "properties": {
+          "body": "eve"
+        }
+      },
+      {
+        "block": "ntmspace:ore_iodine",
+        "properties": {
+          "body": "eve"
+        }
+      },
+      {
+        "block": "ntmspace:ore_redstone",
+        "properties": {
+          "body": "eve"
+        }
+      },
+      {
+        "block": "ntmspace:ore_cinnebar",
+        "properties": {
+          "body": "eve"
+        }
+      }
+    ],
+    "source_replaces": [
+      "hbm:tile.ore_iron:7",
+      "hbm:tile.ore_gold:7",
+      "hbm:tile.ore_diamond:7",
+      "hbm:tile.ore_schrabidium:7",
+      "hbm:tile.ore_niobium:7",
+      "hbm:tile.ore_cobalt:7",
+      "hbm:tile.ore_iodine:7",
+      "hbm:tile.ore_redstone:7",
+      "hbm:tile.ore_cinnebar:7"
+    ],
+    "source_condition": "dimension == 18"
+  },
+  {
+    "name": "Dres_Cleanup",
+    "dimension": "ntmspace:dres",
+    "replacement": "ntmspace:dres_rock",
+    "matches": [
+      {
+        "block": "ntmspace:ore_iron",
+        "properties": {
+          "body": "dres"
+        }
+      },
+      {
+        "block": "ntmspace:ore_gold",
+        "properties": {
+          "body": "dres"
+        }
+      },
+      {
+        "block": "ntmspace:ore_diamond",
+        "properties": {
+          "body": "dres"
+        }
+      },
+      {
+        "block": "ntmspace:ore_coltan",
+        "properties": {
+          "body": "dres"
+        }
+      },
+      {
+        "block": "ntmspace:ore_redstone",
+        "properties": {
+          "body": "dres"
+        }
+      },
+      {
+        "block": "ntmspace:ore_cinnebar",
+        "properties": {
+          "body": "dres"
+        }
+      },
+      {
+        "block": "ntmspace:ore_niobium",
+        "properties": {
+          "body": "dres"
+        }
+      }
+    ],
+    "source_replaces": [
+      "hbm:tile.ore_iron:6",
+      "hbm:tile.ore_gold:6",
+      "hbm:tile.ore_diamond:6",
+      "hbm:tile.ore_coltan:6",
+      "hbm:tile.ore_redstone:6",
+      "hbm:tile.ore_cinnebar:6",
+      "hbm:tile.ore_niobium:6"
+    ],
+    "source_condition": "dimension == 19"
+  },
+  {
+    "name": "Moho_Cleanup",
+    "dimension": "ntmspace:moho",
+    "replacement": "ntmspace:moho_stone",
+    "matches": [
+      {
+        "block": "ntmspace:ore_iron",
+        "properties": {
+          "body": "moho"
+        }
+      },
+      {
+        "block": "ntmspace:ore_gold",
+        "properties": {
+          "body": "moho"
+        }
+      },
+      {
+        "block": "ntmspace:ore_diamond",
+        "properties": {
+          "body": "moho"
+        }
+      },
+      {
+        "block": "ntmspace:ore_australium",
+        "properties": {
+          "body": "moho"
+        }
+      },
+      {
+        "block": "ntmspace:ore_redstone",
+        "properties": {
+          "body": "moho"
+        }
+      }
+    ],
+    "source_replaces": [
+      "hbm:tile.ore_iron:5",
+      "hbm:tile.ore_gold:5",
+      "hbm:tile.ore_diamond:5",
+      "hbm:tile.ore_australium:5",
+      "hbm:tile.ore_redstone:5"
+    ],
+    "source_condition": "dimension == 20"
+  },
+  {
+    "name": "Tekto_Cleanup",
+    "dimension": "ntmspace:tekto",
+    "replacement": "hbm:basalt",
+    "matches": [
+      {
+        "block": "ntmspace:ore_iron",
+        "properties": {
+          "body": "tekto"
+        }
+      },
+      {
+        "block": "ntmspace:ore_gold",
+        "properties": {
+          "body": "tekto"
+        }
+      },
+      {
+        "block": "ntmspace:ore_diamond",
+        "properties": {
+          "body": "tekto"
+        }
+      },
+      {
+        "block": "ntmspace:ore_redstone",
+        "properties": {
+          "body": "tekto"
+        }
+      }
+    ],
+    "source_replaces": [
+      "hbm:tile.ore_iron:10",
+      "hbm:tile.ore_gold:10",
+      "hbm:tile.ore_diamond:10",
+      "hbm:tile.ore_redstone:10"
+    ],
+    "source_condition": "dimension == 24"
+  }
+]

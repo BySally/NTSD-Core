@@ -1,0 +1,8 @@
+{
+  "feature": "ntnhcore:ntnh_hbm_ores",
+  "placement": [
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

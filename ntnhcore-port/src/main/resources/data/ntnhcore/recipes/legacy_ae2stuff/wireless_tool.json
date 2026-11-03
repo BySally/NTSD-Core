@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ae2:engineering_processor"
+    },
+    {
+      "item": "ae2:wireless_receiver"
+    },
+    {
+      "item": "ae2:network_tool"
+    }
+  ],
+  "result": {
+    "item": "expatternprovider:wireless_tool",
+    "count": 1
+  }
+}

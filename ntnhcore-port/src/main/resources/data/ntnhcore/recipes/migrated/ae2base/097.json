@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "tag": "c:plates_cast/steel"
+    },
+    "B": {
+      "item": "ae2:calculation_processor"
+    },
+    "C": {
+      "item": "ae2:fluix_glass_cable"
+    },
+    "D": {
+      "item": "ae2:logic_processor"
+    }
+  },
+  "result": {
+    "item": "ae2:crafting_unit",
+    "count": 1
+  }
+}

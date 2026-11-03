@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "BCB",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "tag": "c:plates_cast/steel"
+    },
+    "B": {
+      "item": "ae2:fluix_glass_cable"
+    },
+    "C": {
+      "item": "ae2:fluix_block"
+    }
+  },
+  "result": {
+    "item": "ae2:growth_accelerator",
+    "count": 1
+  }
+}

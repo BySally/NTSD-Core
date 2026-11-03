@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "BCB",
+    "BBB"
+  ],
+  "key": {
+    "A": {
+      "tag": "c:plates/iron"
+    },
+    "B": {
+      "tag": "forge:glass_panes/colorless"
+    },
+    "C": {
+      "item": "minecraft:cookie"
+    }
+  },
+  "result": {
+    "item": "bibliocraft:cookie_jar",
+    "count": 1
+  }
+}

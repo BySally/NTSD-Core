@@ -1,0 +1,1022 @@
+[
+  {
+    "id": "ags_modernmarkings:floor_marking_black_singleline",
+    "name": "floor_marking_black_singleline",
+    "kind": "floor",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:floor_marking_white_arrow",
+    "name": "floor_marking_white_arrow",
+    "kind": "floor",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:floor_marking_white_lane",
+    "name": "floor_marking_white_lane",
+    "kind": "floor",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:floor_marking_white_lane_cross",
+    "name": "floor_marking_white_lane_cross",
+    "kind": "floor",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:floor_marking_white_singleline",
+    "name": "floor_marking_white_singleline",
+    "kind": "floor",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:floor_marking_white_square",
+    "name": "floor_marking_white_square",
+    "kind": "floor",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:floor_marking_whiteblack_hazardline",
+    "name": "floor_marking_whiteblack_hazardline",
+    "kind": "floor",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:floor_marking_noentry",
+    "name": "floor_marking_noentry",
+    "kind": "floor",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:floor_marking_nostep",
+    "name": "floor_marking_nostep",
+    "kind": "floor",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:floor_marking_exit",
+    "name": "floor_marking_exit",
+    "kind": "floor",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:floor_marking_yellow_arrow",
+    "name": "floor_marking_yellow_arrow",
+    "kind": "floor",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:floor_marking_yellow_hazardline",
+    "name": "floor_marking_yellow_hazardline",
+    "kind": "floor",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:floor_marking_yellow_lane",
+    "name": "floor_marking_yellow_lane",
+    "kind": "floor",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:floor_marking_yellow_sideline",
+    "name": "floor_marking_yellow_sideline",
+    "kind": "floor",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:floor_marking_yellow_singleline",
+    "name": "floor_marking_yellow_singleline",
+    "kind": "floor",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:floor_marking_yellow_square",
+    "name": "floor_marking_yellow_square",
+    "kind": "floor",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:floor_marking_yellow_stripes",
+    "name": "floor_marking_yellow_stripes",
+    "kind": "floor",
+    "restored": false
+  },
+  {
+    "id": "ntnhcore:floor_marking_yellow_t_crossing",
+    "name": "floor_marking_yellow_t_crossing",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_yellow_crossing",
+    "name": "floor_marking_yellow_crossing",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_yellow_turn",
+    "name": "floor_marking_yellow_turn",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_yellow_end",
+    "name": "floor_marking_yellow_end",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ags_modernmarkings:floor_marking_danger_yellow",
+    "name": "floor_marking_danger_yellow",
+    "kind": "floor",
+    "restored": false
+  },
+  {
+    "id": "ntnhcore:floor_marking_white_t_crossing",
+    "name": "floor_marking_white_t_crossing",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_white_crossing",
+    "name": "floor_marking_white_crossing",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_white_turn",
+    "name": "floor_marking_white_turn",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_white_end",
+    "name": "floor_marking_white_end",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_white_sideline",
+    "name": "floor_marking_white_sideline",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_green_t_crossing",
+    "name": "floor_marking_green_t_crossing",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_green_crossing",
+    "name": "floor_marking_green_crossing",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_green_turn",
+    "name": "floor_marking_green_turn",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_green_end",
+    "name": "floor_marking_green_end",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_green_sideline",
+    "name": "floor_marking_green_sideline",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_green_square",
+    "name": "floor_marking_green_square",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_green_hazardline",
+    "name": "floor_marking_green_hazardline",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ags_modernmarkings:floor_marking_green_singleline",
+    "name": "floor_marking_green_singleline",
+    "kind": "floor",
+    "restored": false
+  },
+  {
+    "id": "ntnhcore:floor_marking_blue_t_crossing",
+    "name": "floor_marking_blue_t_crossing",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_blue_crossing",
+    "name": "floor_marking_blue_crossing",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_blue_turn",
+    "name": "floor_marking_blue_turn",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_blue_end",
+    "name": "floor_marking_blue_end",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_blue_sideline",
+    "name": "floor_marking_blue_sideline",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_blue_square",
+    "name": "floor_marking_blue_square",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_blue_hazardline",
+    "name": "floor_marking_blue_hazardline",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ags_modernmarkings:floor_marking_blue_singleline",
+    "name": "floor_marking_blue_singleline",
+    "kind": "floor",
+    "restored": false
+  },
+  {
+    "id": "ntnhcore:floor_marking_red_t_crossing",
+    "name": "floor_marking_red_t_crossing",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_red_crossing",
+    "name": "floor_marking_red_crossing",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_red_turn",
+    "name": "floor_marking_red_turn",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_red_end",
+    "name": "floor_marking_red_end",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_red_sideline",
+    "name": "floor_marking_red_sideline",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_red_square",
+    "name": "floor_marking_red_square",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ags_modernmarkings:floor_marking_red_hazardline",
+    "name": "floor_marking_red_hazardline",
+    "kind": "floor",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:floor_marking_red_singleline",
+    "name": "floor_marking_red_singleline",
+    "kind": "floor",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:floor_marking_danger_red",
+    "name": "floor_marking_danger_red",
+    "kind": "floor",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:floor_marking_redx",
+    "name": "floor_marking_redx",
+    "kind": "floor",
+    "restored": false
+  },
+  {
+    "id": "ntnhcore:floor_marking_orange_t_crossing",
+    "name": "floor_marking_orange_t_crossing",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_orange_crossing",
+    "name": "floor_marking_orange_crossing",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_orange_turn",
+    "name": "floor_marking_orange_turn",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_orange_end",
+    "name": "floor_marking_orange_end",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_orange_sideline",
+    "name": "floor_marking_orange_sideline",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_orange_square",
+    "name": "floor_marking_orange_square",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_orange_hazardline",
+    "name": "floor_marking_orange_hazardline",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ags_modernmarkings:floor_marking_orange_singleline",
+    "name": "floor_marking_orange_singleline",
+    "kind": "floor",
+    "restored": false
+  },
+  {
+    "id": "ntnhcore:floor_marking_letter_a",
+    "name": "floor_marking_letter_a",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_letter_b",
+    "name": "floor_marking_letter_b",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_letter_c",
+    "name": "floor_marking_letter_c",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_letter_d",
+    "name": "floor_marking_letter_d",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_letter_e",
+    "name": "floor_marking_letter_e",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_letter_f",
+    "name": "floor_marking_letter_f",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_letter_g",
+    "name": "floor_marking_letter_g",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_letter_h",
+    "name": "floor_marking_letter_h",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_letter_i",
+    "name": "floor_marking_letter_i",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_letter_j",
+    "name": "floor_marking_letter_j",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_letter_k",
+    "name": "floor_marking_letter_k",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_letter_l",
+    "name": "floor_marking_letter_l",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_letter_m",
+    "name": "floor_marking_letter_m",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_letter_n",
+    "name": "floor_marking_letter_n",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_letter_o",
+    "name": "floor_marking_letter_o",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_letter_p",
+    "name": "floor_marking_letter_p",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_letter_q",
+    "name": "floor_marking_letter_q",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_letter_r",
+    "name": "floor_marking_letter_r",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_letter_s",
+    "name": "floor_marking_letter_s",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_letter_t",
+    "name": "floor_marking_letter_t",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_letter_u",
+    "name": "floor_marking_letter_u",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_letter_v",
+    "name": "floor_marking_letter_v",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_letter_w",
+    "name": "floor_marking_letter_w",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_letter_x",
+    "name": "floor_marking_letter_x",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_letter_y",
+    "name": "floor_marking_letter_y",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:floor_marking_letter_z",
+    "name": "floor_marking_letter_z",
+    "kind": "floor",
+    "restored": true
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_exit",
+    "name": "wall_marking_exit",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ntnhcore:wall_marking_unit",
+    "name": "wall_marking_unit",
+    "kind": "wall",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:wall_marking_first_aid",
+    "name": "wall_marking_first_aid",
+    "kind": "wall",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:wall_marking_fire_extinguisher",
+    "name": "wall_marking_fire_extinguisher",
+    "kind": "wall",
+    "restored": true
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_number_0",
+    "name": "wall_marking_number_0",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_number_1",
+    "name": "wall_marking_number_1",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_number_2",
+    "name": "wall_marking_number_2",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_number_3",
+    "name": "wall_marking_number_3",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_number_4",
+    "name": "wall_marking_number_4",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_number_5",
+    "name": "wall_marking_number_5",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_number_6",
+    "name": "wall_marking_number_6",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_number_7",
+    "name": "wall_marking_number_7",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_number_8",
+    "name": "wall_marking_number_8",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_number_9",
+    "name": "wall_marking_number_9",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_number_no",
+    "name": "wall_marking_number_no",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_number_numero",
+    "name": "wall_marking_number_numero",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_number_dash",
+    "name": "wall_marking_number_dash",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_number_comma",
+    "name": "wall_marking_number_comma",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_number_period",
+    "name": "wall_marking_number_period",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_symbol_chemical",
+    "name": "wall_marking_symbol_chemical",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_symbol_electric",
+    "name": "wall_marking_symbol_electric",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_symbol_fire",
+    "name": "wall_marking_symbol_fire",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_symbol_fluid",
+    "name": "wall_marking_symbol_fluid",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_symbol_frost",
+    "name": "wall_marking_symbol_frost",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_symbol_gears",
+    "name": "wall_marking_symbol_gears",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_symbol_laser",
+    "name": "wall_marking_symbol_laser",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_symbol_magic",
+    "name": "wall_marking_symbol_magic",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_symbol_mob",
+    "name": "wall_marking_symbol_mob",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_symbol_pinch",
+    "name": "wall_marking_symbol_pinch",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_symbol_production",
+    "name": "wall_marking_symbol_production",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_symbol_radiation",
+    "name": "wall_marking_symbol_radiation",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ntnhcore:wall_marking_symbol_radiation_2",
+    "name": "wall_marking_symbol_radiation_2",
+    "kind": "wall",
+    "restored": true
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_symbol_storage",
+    "name": "wall_marking_symbol_storage",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_warning_danger",
+    "name": "wall_marking_warning_danger",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_arrowleft",
+    "name": "wall_marking_arrowleft",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_arrowright",
+    "name": "wall_marking_arrowright",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_hazardline_left",
+    "name": "wall_marking_hazardline_left",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_hazardline_right",
+    "name": "wall_marking_hazardline_right",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_hazard_diamond",
+    "name": "wall_marking_hazard_diamond",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_voltage_eu",
+    "name": "wall_marking_voltage_eu",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_voltage_ev",
+    "name": "wall_marking_voltage_ev",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_voltage_fe",
+    "name": "wall_marking_voltage_fe",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_voltage_hv",
+    "name": "wall_marking_voltage_hv",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_voltage_iv",
+    "name": "wall_marking_voltage_iv",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_voltage_luv",
+    "name": "wall_marking_voltage_luv",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_voltage_lv",
+    "name": "wall_marking_voltage_lv",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_voltage_max",
+    "name": "wall_marking_voltage_max",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_voltage_mv",
+    "name": "wall_marking_voltage_mv",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_voltage_pert",
+    "name": "wall_marking_voltage_pert",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_voltage_rf",
+    "name": "wall_marking_voltage_rf",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_voltage_uev",
+    "name": "wall_marking_voltage_uev",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_voltage_uhv",
+    "name": "wall_marking_voltage_uhv",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_voltage_uiv",
+    "name": "wall_marking_voltage_uiv",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_voltage_umv",
+    "name": "wall_marking_voltage_umv",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_voltage_uv",
+    "name": "wall_marking_voltage_uv",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_voltage_uxv",
+    "name": "wall_marking_voltage_uxv",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ags_modernmarkings:wall_marking_voltage_zpm",
+    "name": "wall_marking_voltage_zpm",
+    "kind": "wall",
+    "restored": false
+  },
+  {
+    "id": "ntnhcore:wall_marking_letter_a",
+    "name": "wall_marking_letter_a",
+    "kind": "wall",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:wall_marking_letter_b",
+    "name": "wall_marking_letter_b",
+    "kind": "wall",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:wall_marking_letter_c",
+    "name": "wall_marking_letter_c",
+    "kind": "wall",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:wall_marking_letter_d",
+    "name": "wall_marking_letter_d",
+    "kind": "wall",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:wall_marking_letter_e",
+    "name": "wall_marking_letter_e",
+    "kind": "wall",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:wall_marking_letter_f",
+    "name": "wall_marking_letter_f",
+    "kind": "wall",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:wall_marking_letter_g",
+    "name": "wall_marking_letter_g",
+    "kind": "wall",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:wall_marking_letter_h",
+    "name": "wall_marking_letter_h",
+    "kind": "wall",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:wall_marking_letter_i",
+    "name": "wall_marking_letter_i",
+    "kind": "wall",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:wall_marking_letter_j",
+    "name": "wall_marking_letter_j",
+    "kind": "wall",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:wall_marking_letter_k",
+    "name": "wall_marking_letter_k",
+    "kind": "wall",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:wall_marking_letter_l",
+    "name": "wall_marking_letter_l",
+    "kind": "wall",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:wall_marking_letter_m",
+    "name": "wall_marking_letter_m",
+    "kind": "wall",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:wall_marking_letter_n",
+    "name": "wall_marking_letter_n",
+    "kind": "wall",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:wall_marking_letter_o",
+    "name": "wall_marking_letter_o",
+    "kind": "wall",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:wall_marking_letter_p",
+    "name": "wall_marking_letter_p",
+    "kind": "wall",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:wall_marking_letter_q",
+    "name": "wall_marking_letter_q",
+    "kind": "wall",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:wall_marking_letter_r",
+    "name": "wall_marking_letter_r",
+    "kind": "wall",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:wall_marking_letter_s",
+    "name": "wall_marking_letter_s",
+    "kind": "wall",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:wall_marking_letter_t",
+    "name": "wall_marking_letter_t",
+    "kind": "wall",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:wall_marking_letter_u",
+    "name": "wall_marking_letter_u",
+    "kind": "wall",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:wall_marking_letter_v",
+    "name": "wall_marking_letter_v",
+    "kind": "wall",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:wall_marking_letter_w",
+    "name": "wall_marking_letter_w",
+    "kind": "wall",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:wall_marking_letter_x",
+    "name": "wall_marking_letter_x",
+    "kind": "wall",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:wall_marking_letter_y",
+    "name": "wall_marking_letter_y",
+    "kind": "wall",
+    "restored": true
+  },
+  {
+    "id": "ntnhcore:wall_marking_letter_z",
+    "name": "wall_marking_letter_z",
+    "kind": "wall",
+    "restored": true
+  }
+]

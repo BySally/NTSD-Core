@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ntnhcore:block/wall_marking_letter_d"
+    },
+    "facing=south": {
+      "model": "ntnhcore:block/wall_marking_letter_d",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "ntnhcore:block/wall_marking_letter_d",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "ntnhcore:block/wall_marking_letter_d",
+      "y": 270
+    }
+  }
+}

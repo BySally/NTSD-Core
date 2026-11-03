@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ",
+    "PPP"
+  ],
+  "key": {
+    "S": {
+      "tag": "forge:slimeballs"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    }
+  },
+  "result": {
+    "item": "ntnhcore:drawer_tape",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "BCB",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "tag": "c:ingots/steel"
+    },
+    "B": {
+      "item": "ae2:quartz_glass"
+    },
+    "C": {
+      "tag": "forge:gems/fluix"
+    }
+  },
+  "result": {
+    "item": "ae2:energy_acceptor",
+    "count": 1
+  }
+}

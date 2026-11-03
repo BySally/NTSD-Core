@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "C  ",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "tag": "c:plates_welded/steel"
+    },
+    "B": {
+      "tag": "forge:gems/fluix"
+    },
+    "C": {
+      "item": "hbm:steel_poles"
+    }
+  },
+  "result": {
+    "item": "ae2:charger",
+    "count": 1
+  }
+}

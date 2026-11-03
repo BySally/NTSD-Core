@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "tag": "c:plates_cast/steel"
+    },
+    "B": {
+      "item": "ae2:engineering_processor"
+    },
+    "C": {
+      "item": "ae2:logic_processor"
+    },
+    "D": {
+      "item": "ae2:energy_cell"
+    }
+  },
+  "result": {
+    "item": "ae2:quantum_ring",
+    "count": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "type": "ntnhcore:legacy_backpack",
+  "pattern": [
+    "ECE",
+    "WaW",
+    "SmS"
+  ],
+  "key": {
+    "a": {
+      "tag": "ntnhcore:legacy_backpacks"
+    },
+    "E": {
+      "item": "minecraft:egg"
+    },
+    "C": {
+      "item": "minecraft:cake"
+    },
+    "W": {
+      "item": "minecraft:wheat"
+    },
+    "S": {
+      "item": "minecraft:sugar"
+    },
+    "m": {
+      "item": "minecraft:milk_bucket"
+    }
+  },
+  "result": {
+    "item": "travelersbackpack:cake"
+  }
+}

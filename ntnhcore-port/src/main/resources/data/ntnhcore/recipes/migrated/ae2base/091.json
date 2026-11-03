@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AB ",
+    "CDB",
+    "AB "
+  ],
+  "key": {
+    "A": {
+      "tag": "c:ingots/gold"
+    },
+    "B": {
+      "tag": "c:ingots/steel"
+    },
+    "C": {
+      "tag": "c:dusts/redstone"
+    },
+    "D": {
+      "item": "ae2:calculation_processor"
+    }
+  },
+  "result": {
+    "item": "ae2:basic_card",
+    "count": 1
+  }
+}

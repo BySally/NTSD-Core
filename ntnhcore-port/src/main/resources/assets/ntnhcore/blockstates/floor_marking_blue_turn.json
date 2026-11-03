@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ntnhcore:block/floor_marking_blue_turn"
+    },
+    "facing=south": {
+      "model": "ntnhcore:block/floor_marking_blue_turn",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "ntnhcore:block/floor_marking_blue_turn",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "ntnhcore:block/floor_marking_blue_turn",
+      "y": 270
+    }
+  }
+}

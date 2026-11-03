@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ntnhcore:block/floor_marking_green_hazardline"
+    },
+    "facing=south": {
+      "model": "ntnhcore:block/floor_marking_green_hazardline",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "ntnhcore:block/floor_marking_green_hazardline",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "ntnhcore:block/floor_marking_green_hazardline",
+      "y": 270
+    }
+  }
+}

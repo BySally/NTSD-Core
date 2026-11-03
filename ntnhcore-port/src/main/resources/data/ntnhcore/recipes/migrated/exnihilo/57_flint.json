@@ -1,0 +1,13 @@
+{
+  "type": "exdeorum:sieve",
+  "ingredient": {
+    "item": "exdeorum:crushed_netherrack"
+  },
+  "mesh": "exdeorum:flint_mesh",
+  "result": "hbm:powder_gold",
+  "result_amount": {
+    "type": "minecraft:binomial",
+    "n": 1.0,
+    "p": 0.08333333333333333
+  }
+}

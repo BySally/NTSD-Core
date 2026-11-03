@@ -1,0 +1,22 @@
+{
+  "type": "ntnhcore:legacy_backpack",
+  "pattern": [
+    "cCc",
+    "CaC",
+    "ccc"
+  ],
+  "key": {
+    "c": {
+      "item": "minecraft:coal"
+    },
+    "C": {
+      "tag": "forge:storage_blocks/coal"
+    },
+    "a": {
+      "tag": "ntnhcore:legacy_backpacks"
+    }
+  },
+  "result": {
+    "item": "travelersbackpack:coal"
+  }
+}

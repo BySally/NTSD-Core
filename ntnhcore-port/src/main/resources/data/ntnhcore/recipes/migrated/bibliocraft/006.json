@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "BCB",
+    "DDD"
+  ],
+  "key": {
+    "A": {
+      "tag": "c:plates/iron"
+    },
+    "B": {
+      "tag": "minecraft:planks"
+    },
+    "C": {
+      "tag": "ntnhcore:blaze_powder"
+    },
+    "D": {
+      "tag": "c:plates_welded/iron"
+    }
+  },
+  "result": {
+    "item": "bibliocraft:iron_printing_table",
+    "count": 1
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": "ntnhcore:ntnh_hbm_ores",
+  "step": "top_layer_modification"
+}

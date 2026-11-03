@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "EFE"
+  ],
+  "key": {
+    "A": {
+      "item": "ae2:quartz_glass"
+    },
+    "B": {
+      "item": "ae2:terminal"
+    },
+    "C": {
+      "item": "ae2:fluix_glass_cable"
+    },
+    "D": {
+      "item": "ae2:calculation_processor"
+    },
+    "E": {
+      "tag": "c:plates_welded/steel"
+    },
+    "F": {
+      "tag": "forge:gems/fluix"
+    }
+  },
+  "result": {
+    "item": "ae2:chest",
+    "count": 1
+  }
+}

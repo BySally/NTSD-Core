@@ -1,0 +1,7 @@
+Applied Energistics 2, (c) 2013-2015 AlgorithmX2 et al; GTNewHorizons contributors.
+Reference: GTNH_appliedenergistics2-rv3-beta-1019-GTNH.jar, supplied with NTNH.
+Original textures copied byte-for-byte: OreQuartzStone.png, OreQuartz.png, OreQuartzCharged.png.
+Textures and Models: CC BY-NC-SA 3.0 https://creativecommons.org/licenses/by-nc-sa/3.0/
+Java behavior reimplemented for Minecraft Forge 1.20.1 with reference to the legacy LGPL-3.0 code.
+Corresponding NTNHCore source is provided in developer/ntnhcore-port.
+https://raw.githubusercontent.com/GTNewHorizons/Applied-Energistics-2-Unofficial/rv3-beta-1019-GTNH/README.md

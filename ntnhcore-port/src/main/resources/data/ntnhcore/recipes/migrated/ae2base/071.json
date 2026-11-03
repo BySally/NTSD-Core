@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "CCC"
+  ],
+  "key": {
+    "A": {
+      "tag": "c:plates_cast/steel"
+    },
+    "B": {
+      "item": "ae2:calculation_processor"
+    },
+    "C": {
+      "tag": "c:ingots/steel"
+    },
+    "D": {
+      "tag": "forge:chests/wooden"
+    }
+  },
+  "result": {
+    "item": "ae2:cell_workbench",
+    "count": 1
+  }
+}

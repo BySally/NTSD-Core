@@ -1,0 +1,5 @@
+ExtendedAE by GlodBlock and contributors, LGPL-3.0.
+Three original wireless demonstration SNBT structures copied unchanged from ExtendedAE-1.20-1.4.21-forge.jar for Russian GuideME pages.
+Models, textures, transport and screens are supplied by the unmodified native mod JAR.
+Russian guide prose and NTNH compatibility code: developer/ntnhcore-port.
+https://github.com/GlodBlock/ExtendedAE

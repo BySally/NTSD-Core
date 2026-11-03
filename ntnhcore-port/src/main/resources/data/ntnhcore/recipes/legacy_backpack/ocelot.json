@@ -1,0 +1,22 @@
+{
+  "type": "ntnhcore:legacy_backpack",
+  "pattern": [
+    "FYF",
+    "YaY",
+    "FYF"
+  ],
+  "key": {
+    "F": {
+      "item": "minecraft:cod"
+    },
+    "Y": {
+      "item": "minecraft:yellow_wool"
+    },
+    "a": {
+      "tag": "ntnhcore:legacy_backpacks"
+    }
+  },
+  "result": {
+    "item": "travelersbackpack:ocelot"
+  }
+}

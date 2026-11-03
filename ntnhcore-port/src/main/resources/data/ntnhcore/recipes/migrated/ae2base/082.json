@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "ABA",
+    "CCC"
+  ],
+  "key": {
+    "A": {
+      "tag": "c:ingots/steel"
+    },
+    "B": {
+      "item": "ae2:engineering_processor"
+    },
+    "C": {
+      "tag": "forge:gems/fluix"
+    }
+  },
+  "result": {
+    "item": "ae2:me_p2p_tunnel",
+    "count": 1
+  }
+}

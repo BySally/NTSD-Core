@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "AAA",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "tag": "minecraft:planks"
+    },
+    "B": {
+      "item": "hbm:mass_storage_wood"
+    }
+  },
+  "result": {
+    "item": "storagedrawers:oak_full_drawers_2",
+    "count": 2
+  }
+}

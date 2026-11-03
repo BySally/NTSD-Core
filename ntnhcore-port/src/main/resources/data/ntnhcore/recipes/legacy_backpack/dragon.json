@@ -1,0 +1,28 @@
+{
+  "type": "ntnhcore:legacy_backpack",
+  "pattern": [
+    "EDE",
+    "OaO",
+    "POP"
+  ],
+  "key": {
+    "E": {
+      "item": "minecraft:end_stone"
+    },
+    "D": {
+      "item": "minecraft:dragon_egg"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "a": {
+      "tag": "ntnhcore:legacy_backpacks"
+    },
+    "P": {
+      "item": "minecraft:ender_pearl"
+    }
+  },
+  "result": {
+    "item": "travelersbackpack:dragon"
+  }
+}

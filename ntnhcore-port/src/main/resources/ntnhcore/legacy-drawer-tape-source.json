@@ -1,0 +1,29 @@
+{
+  "source_jar": "StorageDrawers-2.2.26-GTNH.jar",
+  "source_sha256": "6f5e26e13cd7b4419ab5c80851282d9848605decb44e48a719e19a20a93a4b2e",
+  "runtime_jar_sha256": "471e36eebd8d422eb1b8033a6e15074647539895b4c2d5c46e2c45e6aa13a432",
+  "assets": [
+    {
+      "source": "assets/storagedrawers/textures/items/tape_roll.png",
+      "target": "assets/ntnhcore/textures/item/drawer_tape.png",
+      "sha256": "41ea12b92b515ad2f38efb70d6b2bca59688b425dc6262ab24b3c9b0afc7986a",
+      "modified": false
+    },
+    {
+      "source": "assets/storagedrawers/textures/blocks/tape.png",
+      "target": "assets/ntnhcore/textures/block/drawer_tape.png",
+      "sha256": "1e88f8718acde0dc98c52d8efff40aa424aed63c68360a17170dbfc9ec32ecdd",
+      "modified": false
+    }
+  ],
+  "native_blockstate_models_extended": 80,
+  "recipe": [
+    " S ",
+    "PPP"
+  ],
+  "durability_legacy_max_damage": 8,
+  "durability_modern_operations": 9,
+  "seal_storage": "ntnh_sealed blockstate, persistent and synchronised; new placement defaults to false",
+  "ordinary_break": "all contents in legal-size stacks; no 32-stack truncation",
+  "legacy_drop_merge_adaptation": "modern ItemStack NBT count cannot safely hold old oversized stacks; split to legal stack sizes"
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AB ",
+    "CDB",
+    "AB "
+  ],
+  "key": {
+    "A": {
+      "tag": "c:gems/diamond"
+    },
+    "B": {
+      "tag": "c:ingots/steel"
+    },
+    "C": {
+      "tag": "c:dusts/redstone"
+    },
+    "D": {
+      "item": "ae2:calculation_processor"
+    }
+  },
+  "result": {
+    "item": "ae2:advanced_card",
+    "count": 1
+  }
+}

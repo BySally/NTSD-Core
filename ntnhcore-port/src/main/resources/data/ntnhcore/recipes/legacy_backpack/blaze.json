@@ -1,0 +1,28 @@
+{
+  "type": "ntnhcore:legacy_backpack",
+  "pattern": [
+    "BFB",
+    "BaB",
+    "PLP"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:blaze_rod"
+    },
+    "F": {
+      "item": "minecraft:fire_charge"
+    },
+    "a": {
+      "tag": "ntnhcore:legacy_backpacks"
+    },
+    "P": {
+      "item": "minecraft:blaze_powder"
+    },
+    "L": {
+      "item": "minecraft:lava_bucket"
+    }
+  },
+  "result": {
+    "item": "travelersbackpack:blaze"
+  }
+}

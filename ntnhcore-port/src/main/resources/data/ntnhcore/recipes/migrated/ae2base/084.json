@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    " C "
+  ],
+  "key": {
+    "A": {
+      "tag": "c:ingots/steel"
+    },
+    "B": {
+      "item": "ae2:logic_processor"
+    },
+    "C": {
+      "item": "minecraft:piston"
+    }
+  },
+  "result": {
+    "item": "ae2:export_bus",
+    "count": 1
+  }
+}

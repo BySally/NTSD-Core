@@ -1,0 +1,22 @@
+{
+  "type": "ntnhcore:legacy_backpack",
+  "pattern": [
+    "PPP",
+    "PaP",
+    "PsP"
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:pumpkin"
+    },
+    "a": {
+      "tag": "ntnhcore:legacy_backpacks"
+    },
+    "s": {
+      "item": "minecraft:pumpkin_seeds"
+    }
+  },
+  "result": {
+    "item": "travelersbackpack:pumpkin"
+  }
+}

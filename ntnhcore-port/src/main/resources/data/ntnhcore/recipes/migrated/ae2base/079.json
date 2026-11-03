@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "AB ",
+    "  C"
+  ],
+  "key": {
+    "A": {
+      "tag": "c:ingots/steel"
+    },
+    "B": {
+      "item": "ae2:cell_component_1k"
+    },
+    "C": {
+      "item": "ae2:energy_cell"
+    }
+  },
+  "result": {
+    "item": "ae2:color_applicator",
+    "count": 1
+  }
+}

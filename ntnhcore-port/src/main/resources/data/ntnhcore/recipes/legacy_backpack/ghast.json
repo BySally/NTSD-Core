@@ -1,0 +1,25 @@
+{
+  "type": "ntnhcore:legacy_backpack",
+  "pattern": [
+    "GFG",
+    "TaT",
+    "GTG"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:ghast_tear"
+    },
+    "F": {
+      "item": "minecraft:fire_charge"
+    },
+    "T": {
+      "item": "minecraft:gunpowder"
+    },
+    "a": {
+      "tag": "ntnhcore:legacy_backpacks"
+    }
+  },
+  "result": {
+    "item": "travelersbackpack:ghast"
+  }
+}

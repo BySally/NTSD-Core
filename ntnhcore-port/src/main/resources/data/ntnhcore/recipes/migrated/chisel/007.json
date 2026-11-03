@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    " A ",
+    " C "
+  ],
+  "key": {
+    "A": {
+      "item": "hbm:plate_steel"
+    },
+    "B": {
+      "item": "chisel:iron_chisel"
+    },
+    "C": {
+      "item": "hbm:block_steel"
+    }
+  },
+  "result": {
+    "item": "chisel:auto_chisel",
+    "count": 1
+  }
+}

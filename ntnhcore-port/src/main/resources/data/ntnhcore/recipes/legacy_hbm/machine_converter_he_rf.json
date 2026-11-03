@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "RRR",
+    "SSS"
+  ],
+  "key": {
+    "C": {
+      "item": "hbm:circuit_capacitor"
+    },
+    "R": {
+      "tag": "forge:dusts/redstone"
+    },
+    "S": {
+      "tag": "forge:ingots/steel"
+    }
+  },
+  "result": {
+    "item": "ntnhcore:machine_converter_he_rf",
+    "count": 1
+  }
+}

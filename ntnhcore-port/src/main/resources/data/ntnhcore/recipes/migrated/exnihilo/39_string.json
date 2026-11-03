@@ -1,0 +1,13 @@
+{
+  "type": "exdeorum:sieve",
+  "ingredient": {
+    "item": "minecraft:gravel"
+  },
+  "mesh": "exdeorum:string_mesh",
+  "result": "hbm:bedrock_ore_fragment_aluminium",
+  "result_amount": {
+    "type": "minecraft:binomial",
+    "n": 1.0,
+    "p": 0.041666666666666664
+  }
+}

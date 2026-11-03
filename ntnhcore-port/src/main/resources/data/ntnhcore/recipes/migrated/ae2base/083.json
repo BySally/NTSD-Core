@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "BCB"
+  ],
+  "key": {
+    "A": {
+      "item": "ae2:engineering_processor"
+    },
+    "B": {
+      "tag": "c:ingots/steel"
+    },
+    "C": {
+      "item": "minecraft:piston"
+    }
+  },
+  "result": {
+    "item": "ae2:import_bus",
+    "count": 1
+  }
+}

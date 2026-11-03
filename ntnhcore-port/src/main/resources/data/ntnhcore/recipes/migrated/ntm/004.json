@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:tool_saucepan"
+    },
+    {
+      "tag": "c:foods/cheese"
+    },
+    {
+      "tag": "forge:tortilla"
+    },
+    {
+      "tag": "c:foods/butter"
+    }
+  ],
+  "result": {
+    "item": "hbm:cheese_quesadilla",
+    "count": 1
+  }
+}

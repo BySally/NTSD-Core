@@ -1,0 +1,22 @@
+{
+  "type": "ntnhcore:legacy_backpack",
+  "pattern": [
+    "eEe",
+    "EaE",
+    "eEe"
+  ],
+  "key": {
+    "E": {
+      "item": "minecraft:end_stone"
+    },
+    "e": {
+      "item": "minecraft:ender_eye"
+    },
+    "a": {
+      "tag": "ntnhcore:legacy_backpacks"
+    }
+  },
+  "result": {
+    "item": "travelersbackpack:end"
+  }
+}

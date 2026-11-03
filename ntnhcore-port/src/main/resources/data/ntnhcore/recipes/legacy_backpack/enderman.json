@@ -1,0 +1,22 @@
+{
+  "type": "ntnhcore:legacy_backpack",
+  "pattern": [
+    "PXP",
+    "XaX",
+    "PXP"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:black_wool"
+    },
+    "P": {
+      "item": "minecraft:ender_pearl"
+    },
+    "a": {
+      "tag": "ntnhcore:legacy_backpacks"
+    }
+  },
+  "result": {
+    "item": "travelersbackpack:enderman"
+  }
+}

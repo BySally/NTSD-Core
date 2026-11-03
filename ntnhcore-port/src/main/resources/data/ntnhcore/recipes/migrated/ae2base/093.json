@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "BCB",
+    "DDD"
+  ],
+  "key": {
+    "A": {
+      "item": "ae2:quartz_glass"
+    },
+    "B": {
+      "tag": "c:dusts/redstone"
+    },
+    "C": {
+      "tag": "forge:gems/certus_quartz"
+    },
+    "D": {
+      "tag": "c:ingots/steel"
+    }
+  },
+  "result": {
+    "item": "ae2:view_cell",
+    "count": 1
+  }
+}

@@ -1,0 +1,3 @@
+EnhancedLootBags by USRV (eu.usrv), GTNewHorizons contributors.
+The NTNHCore loot roller reimplements the legacy behavior using the supplied GPL-3.0 source as its reference.
+Corresponding NTNHCore source is included in the pack developer/ntnhcore-port folder.

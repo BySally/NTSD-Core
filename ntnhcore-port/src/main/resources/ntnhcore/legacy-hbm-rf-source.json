@@ -1,0 +1,38 @@
+{
+  "source_jar": "HBM-NTM-[1.0.27_X5806_NTNH].jar",
+  "source_jar_sha256": "69fef1c81a6523ecb29d0a39f65867887752f2b8cd0358a9dd337527e274335f",
+  "source_classes": [
+    "com.hbm.tileentity.network.TileEntityConverterRfHe",
+    "com.hbm.blocks.machine.BlockConverterRfHe",
+    "com.hbm.main.CraftingManager"
+  ],
+  "recipe": [
+    "RRR",
+    "WWW",
+    "III"
+  ],
+  "recipe_key": {
+    "R": "dustRedstone",
+    "W": "wireFineMingrade = original MAT_MINGRADE / wire_red_copper; native forge:wires/red_copper",
+    "I": "ingotSteel"
+  },
+  "rf_input": 2,
+  "he_output": 5,
+  "rf_capacity": 1000000,
+  "he_capacity": 5000000,
+  "input_decay": 0,
+  "texture": {
+    "path": "assets/hbm/textures/blocks/machine_converter_rf_he.png",
+    "sha256": "f2ae3d60fdabd3876fb495033b4260566123f0a0d40cb9f3b955b00660253707"
+  },
+  "differences": [
+    "CoFH RF API replaced with Forge Energy, same numerical units.",
+    "Native Continuum power ports/graphs replace legacy direct tryProvide helpers.",
+    "Original integer truncation is retained, including one RF yielding two HE.",
+    "Existing native HBM HE/FE bridge and HE-to-RF converter are retained."
+  ],
+  "quest": 12545,
+  "new_required_conditions": 0,
+  "new_recipe": "ntnhcore:legacy_hbm/machine_converter_rf_he",
+  "full_port_complete": false
+}

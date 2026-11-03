@@ -1,0 +1,11 @@
+newmtl body
+Kd 1 1 1
+map_Kd ntnhcore:block/selenium_body
+
+newmtl piston
+Kd 1 1 1
+map_Kd ntnhcore:block/selenium_piston
+
+newmtl rotor
+Kd 1 1 1
+map_Kd ntnhcore:block/selenium_rotor

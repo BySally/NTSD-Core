@@ -1,0 +1,48 @@
+{
+  "source_jar": "GTNH_chisel-2.17.31-GTNH.jar",
+  "source_jar_sha256": "1663793f4b7bc41005234b2d11843ebbf8306fe5cf2401debc92692682fe2743",
+  "source_config_sha256": "70f7eb395eecb1dbc419680a210ec87bfe6a80f6480df157d4777ba209359312",
+  "config_values": {
+    "allowChiselDamage": true,
+    "ironChiselMaxDamage": 500,
+    "diamondChiselMaxDamage": 5000,
+    "ironChiselCanLeftClick": true,
+    "ironChiselHasModes": false,
+    "ironChiselAttackDamage": 2,
+    "diamondChiselAttackDamage": 2
+  },
+  "obsidian": {
+    "durability": 2500,
+    "extra_attack_damage": 4,
+    "repair": "minecraft:obsidian",
+    "recipe": [
+      " O",
+      "S "
+    ],
+    "obsidian_count": 1
+  },
+  "nether_star": {
+    "durability": 32767,
+    "extra_attack_damage": 6,
+    "repair": "minecraft:nether_star",
+    "recipe": [
+      " NN",
+      " NN",
+      "S  "
+    ],
+    "star_count": 4
+  },
+  "assets": [
+    {
+      "source": "assets/chisel/textures/items/chisel_obsidian.png",
+      "sha256": "b68e2429c4bd259e4ef8ed75584b9c0d4aabcdaadbcd51bb9ac5dbf068e4cc87",
+      "modified": false
+    },
+    {
+      "source": "assets/chisel/textures/items/chisel_netherstar.png",
+      "sha256": "6d0bd1627b38849c3f9aae59949b1c3c7e85841ddca4a7945f5eb389711e5799",
+      "modified": false
+    }
+  ],
+  "modern_carving_and_mode_implementation_retained": true
+}

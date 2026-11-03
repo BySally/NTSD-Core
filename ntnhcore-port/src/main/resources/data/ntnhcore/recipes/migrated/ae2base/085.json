@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC"
+  ],
+  "key": {
+    "A": {
+      "item": "ae2:engineering_processor"
+    },
+    "B": {
+      "item": "ae2:storage_monitor"
+    },
+    "C": {
+      "item": "ae2:logic_processor"
+    }
+  },
+  "result": {
+    "item": "ae2:conversion_monitor",
+    "count": 1
+  }
+}

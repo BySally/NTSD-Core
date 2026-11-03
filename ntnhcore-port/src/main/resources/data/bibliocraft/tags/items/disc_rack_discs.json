@@ -1,0 +1,14 @@
+{
+  "values": [
+    {
+      "id": "#forge:music_discs",
+      "required": false
+    },
+    {
+      "id": "#computercraft:disks",
+      "required": false
+    },
+    "#minecraft:music_discs"
+  ],
+  "replace": true
+}

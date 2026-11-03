@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "BCB",
+    " B "
+  ],
+  "key": {
+    "A": {
+      "tag": "ntnhcore:fluix_pearls"
+    },
+    "B": {
+      "tag": "c:ingots/steel"
+    },
+    "C": {
+      "item": "ae2:quartz_fiber"
+    }
+  },
+  "result": {
+    "item": "ae2:wireless_receiver",
+    "count": 1
+  }
+}

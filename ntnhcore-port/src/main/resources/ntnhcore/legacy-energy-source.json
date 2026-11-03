@@ -1,0 +1,22 @@
+{
+  "source_jar": "HBM-NTM-[1.0.27_X5806_NTNH].jar",
+  "source_jar_sha256": "69fef1c81a6523ecb29d0a39f65867887752f2b8cd0358a9dd337527e274335f",
+  "legacy_id": "hbm:tile.machine_converter_he_rf@0",
+  "modern_id": "ntnhcore:machine_converter_he_rf",
+  "he_capacity": 5000000,
+  "rf_capacity": 1000000,
+  "HE_Used": 5,
+  "RF_Created": 1,
+  "inputDecay": 0.0,
+  "priority": "LOW",
+  "recipe": [
+    "3 x circuit:CAPACITOR (metadata 1)",
+    "3 x dustRedstone",
+    "3 x ingotSteel"
+  ],
+  "texture": {
+    "source": "assets/hbm/textures/blocks/machine_converter_he_rf.png",
+    "sha256": "2584634a8a5a031c8ce009531b9a79a0dcaa71a61289da18137f93ca76f477fc",
+    "modified": false
+  }
+}

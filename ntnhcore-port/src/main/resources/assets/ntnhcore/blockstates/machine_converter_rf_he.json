@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "ntnhcore:block/machine_converter_rf_he"
+    }
+  }
+}

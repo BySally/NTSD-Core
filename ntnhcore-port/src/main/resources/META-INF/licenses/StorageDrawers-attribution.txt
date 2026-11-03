@@ -1,0 +1,5 @@
+Storage Drawers by Justin Aquadro and contributors, MIT.
+Two original tape textures copied unchanged from the supplied StorageDrawers-2.2.26-GTNH.jar.
+Native 12.15.1 models and states remain in use, with an additional conditional tape layer.
+MIT notice supplied by installed Storage Drawers 12.15.1.
+Adaptation source: developer/ntnhcore-port.

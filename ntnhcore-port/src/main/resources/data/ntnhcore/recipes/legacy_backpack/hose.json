@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NGG",
+    "  G"
+  ],
+  "key": {
+    "N": {
+      "item": "travelersbackpack:hose_nozzle"
+    },
+    "G": {
+      "item": "minecraft:green_dye"
+    }
+  },
+  "result": {
+    "item": "travelersbackpack:hose"
+  }
+}

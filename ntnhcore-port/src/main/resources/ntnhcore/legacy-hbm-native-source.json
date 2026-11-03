@@ -1,0 +1,138 @@
+{
+  "scope": "HBM only; other mod changes deferred",
+  "source_jar": "HBM-NTM-[1.0.27_X5806_NTNH].jar",
+  "source_jar_sha256": "69fef1c81a6523ecb29d0a39f65867887752f2b8cd0358a9dd337527e274335f",
+  "assets": [
+    {
+      "path": "assets/hbm/models/selenium_engine_body.obj",
+      "sha256": "85b6b0d4ebb59406ed9f7050646de33f571965a53b312607da5549990fa525e7"
+    },
+    {
+      "path": "assets/hbm/textures/models/selenium_engine_body.png",
+      "sha256": "31435528543304572f48d80a7061c16df7a94ad2122c61503c14570e117e218a"
+    },
+    {
+      "path": "assets/hbm/models/selenium_engine_piston.obj",
+      "sha256": "4a764e8eb8e04b89628433cec9ed1656b85164dd4d769245d51b43ba209804e3"
+    },
+    {
+      "path": "assets/hbm/textures/models/selenium_engine_piston.png",
+      "sha256": "69d2a36ebf0372a0e3d1d081ca0f18740bce053ab78879f30e34348e533ad6d9"
+    },
+    {
+      "path": "assets/hbm/models/selenium_engine_rotor.obj",
+      "sha256": "aead85639ada08eeae82c5a9682dcff8dc7cacdf16a5279382cbdb2adcc09a51"
+    },
+    {
+      "path": "assets/hbm/textures/models/selenium_engine_rotor.png",
+      "sha256": "69f0e41eb7ccb4bd2832b5f7ebfaf343da215f34b925fa014a972c6406f11d41"
+    },
+    {
+      "path": "assets/hbm/textures/gui/gui_selenium.png",
+      "sha256": "0f81b58904d98b1efe1a1bd3ce1d789360ff6119e06c88ce193eb769f8e1c76e"
+    },
+    {
+      "path": "assets/hbm/textures/blocks/machine_selenium.png",
+      "sha256": "7f348223a5e15f9f7efa0b5610e5ff1e12283d7e02c9ff679f3db117f106b4c7"
+    }
+  ],
+  "source_config": "overrides/config/hbmConfig/hbmMachines.json:radialengine",
+  "recipe": [
+    "PPP",
+    "STS",
+    "SRS"
+  ],
+  "recipe_key": {
+    "P": "pipeDura",
+    "T": "pipeSteel",
+    "S": "ingotSteel",
+    "R": "hbm:red_cable"
+  },
+  "restored_quest": 18177,
+  "newly_resolved_loot": [
+    {
+      "tier": 1,
+      "identifier": "canister_lubricant",
+      "status": "ported",
+      "item": "hbm:canister_full",
+      "limit": 0,
+      "state": {
+        "container_fluid": "LUBRICANT",
+        "container_amount": 1000
+      }
+    },
+    {
+      "tier": 1,
+      "identifier": "number_nine_plushie",
+      "status": "ported",
+      "item": "hbm:plushie_numbernine",
+      "limit": 0,
+      "state": {}
+    },
+    {
+      "tier": 2,
+      "identifier": "lv2_bomb_caller_3",
+      "status": "ported",
+      "item": "hbm:bomb_caller_orange",
+      "limit": 0,
+      "state": {}
+    },
+    {
+      "tier": 2,
+      "identifier": "lv2_canister_full_111",
+      "status": "ported",
+      "item": "hbm:canister_full",
+      "limit": 0,
+      "state": {
+        "container_fluid": "KEROSENE_REFORM",
+        "container_amount": 1000
+      }
+    },
+    {
+      "tier": 3,
+      "identifier": "lv3_apple_schrabidium_1",
+      "status": "ported",
+      "item": "hbm:apple_schrabidium_ingot",
+      "limit": 2,
+      "state": {}
+    },
+    {
+      "tier": 4,
+      "identifier": "lv4_ore_basalt_3",
+      "status": "ported",
+      "item": "hbm:ore_basalt_gem",
+      "limit": 0,
+      "state": {}
+    },
+    {
+      "tier": 4,
+      "identifier": "lv4_plushie_5",
+      "status": "ported",
+      "item": "ntmspace:plushie_teto",
+      "limit": 0,
+      "state": {}
+    },
+    {
+      "tier": 4,
+      "identifier": "lv4_plushie_4",
+      "status": "ported",
+      "item": "hbm:plushie_hundun",
+      "limit": 0,
+      "state": {}
+    },
+    {
+      "tier": 4,
+      "identifier": "lv4_plushie_6",
+      "status": "ported",
+      "item": "ntmspace:plushie_miku",
+      "limit": 0,
+      "state": {}
+    }
+  ],
+  "differences": [
+    "Corrected stale automation slot indices; installed pistons are limited to one per slot.",
+    "Native Continuum fuel energy metadata is retained; efficiency multipliers follow NTNH.",
+    "Fuel tank is drawn as a coloured gauge using the original GUI background.",
+    "The original radial machine is restored; this does not complete the entire HBM/Space progression."
+  ]
+}

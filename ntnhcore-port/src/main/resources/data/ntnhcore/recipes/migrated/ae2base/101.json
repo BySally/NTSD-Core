@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "tag": "c:ingots/steel"
+    },
+    "B": {
+      "tag": "c:plates_cast/steel"
+    },
+    "C": {
+      "item": "ae2:logic_processor"
+    },
+    "D": {
+      "item": "ae2:fluix_glass_cable"
+    }
+  },
+  "result": {
+    "item": "ae2:interface",
+    "count": 1
+  }
+}

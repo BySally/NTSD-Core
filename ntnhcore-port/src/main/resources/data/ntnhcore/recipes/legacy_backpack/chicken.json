@@ -1,0 +1,25 @@
+{
+  "type": "ntnhcore:legacy_backpack",
+  "pattern": [
+    "FnF",
+    "FaF",
+    "nEn"
+  ],
+  "key": {
+    "F": {
+      "item": "minecraft:feather"
+    },
+    "n": {
+      "item": "minecraft:gold_nugget"
+    },
+    "a": {
+      "tag": "ntnhcore:legacy_backpacks"
+    },
+    "E": {
+      "item": "minecraft:egg"
+    }
+  },
+  "result": {
+    "item": "travelersbackpack:chicken"
+  }
+}

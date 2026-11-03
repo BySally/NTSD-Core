@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC"
+  ],
+  "key": {
+    "A": {
+      "item": "ae2:printed_logic_processor"
+    },
+    "B": {
+      "tag": "c:ingots/iron"
+    },
+    "C": {
+      "item": "hbm:circuit_pcb"
+    }
+  },
+  "result": {
+    "item": "ae2:formation_core",
+    "count": 1
+  }
+}

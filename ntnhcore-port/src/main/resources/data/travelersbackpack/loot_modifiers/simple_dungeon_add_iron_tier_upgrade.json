@@ -1,0 +1,18 @@
+{
+  "type": "travelersbackpack:add_item",
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:chests/simple_dungeon"
+    },
+    {
+      "chance": 0.05,
+      "condition": "minecraft:random_chance"
+    },
+    {
+      "condition": "minecraft:random_chance",
+      "chance": 0.0
+    }
+  ],
+  "item": "travelersbackpack:iron_tier_upgrade"
+}

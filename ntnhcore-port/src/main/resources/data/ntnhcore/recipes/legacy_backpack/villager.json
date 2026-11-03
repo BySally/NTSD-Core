@@ -1,0 +1,31 @@
+{
+  "type": "ntnhcore:legacy_backpack",
+  "pattern": [
+    "LGL",
+    "DaD",
+    "CEC"
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:oak_log"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "D": {
+      "item": "minecraft:oak_door"
+    },
+    "a": {
+      "tag": "ntnhcore:legacy_backpacks"
+    },
+    "C": {
+      "item": "minecraft:cobblestone"
+    },
+    "E": {
+      "item": "minecraft:emerald_block"
+    }
+  },
+  "result": {
+    "item": "travelersbackpack:villager"
+  }
+}

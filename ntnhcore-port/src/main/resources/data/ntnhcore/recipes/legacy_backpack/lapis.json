@@ -1,0 +1,25 @@
+{
+  "type": "ntnhcore:legacy_backpack",
+  "pattern": [
+    "GLG",
+    "GaG",
+    "lGl"
+  ],
+  "key": {
+    "G": {
+      "tag": "forge:glass/colorless"
+    },
+    "L": {
+      "tag": "forge:storage_blocks/lapis"
+    },
+    "l": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "a": {
+      "tag": "ntnhcore:legacy_backpacks"
+    }
+  },
+  "result": {
+    "item": "travelersbackpack:lapis"
+  }
+}

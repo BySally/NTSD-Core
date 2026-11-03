@@ -1,0 +1,28 @@
+{
+  "type": "ntnhcore:legacy_backpack",
+  "pattern": [
+    "GHG",
+    "GaG",
+    "TNT"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:gunpowder"
+    },
+    "H": {
+      "item": "minecraft:creeper_head"
+    },
+    "a": {
+      "tag": "ntnhcore:legacy_backpacks"
+    },
+    "T": {
+      "item": "minecraft:tnt"
+    },
+    "N": {
+      "item": "minecraft:tnt"
+    }
+  },
+  "result": {
+    "item": "travelersbackpack:creeper"
+  }
+}

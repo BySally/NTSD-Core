@@ -1,0 +1,25 @@
+{
+  "type": "ntnhcore:legacy_backpack",
+  "pattern": [
+    "GIG",
+    "GaG",
+    "iGi"
+  ],
+  "key": {
+    "G": {
+      "tag": "forge:glass/colorless"
+    },
+    "I": {
+      "tag": "forge:storage_blocks/iron"
+    },
+    "a": {
+      "tag": "ntnhcore:legacy_backpacks"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "travelersbackpack:iron"
+  }
+}

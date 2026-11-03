@@ -1,0 +1,5672 @@
+[
+  {
+    "quest": 81665,
+    "legacy_name": "Acceleration Card",
+    "prerequisites": [
+      88065
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 81921,
+    "legacy_name": "AE2 Autocrafting",
+    "prerequisites": [
+      83457
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 82177,
+    "legacy_name": "AE2 Changes",
+    "prerequisites": [
+      23041
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 82433,
+    "legacy_name": "Cable Fluix",
+    "prerequisites": [
+      19201,
+      84993
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 82689,
+    "legacy_name": "Cell Workbench",
+    "prerequisites": [
+      90881
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 82945,
+    "legacy_name": "Certus Quartz Crystal",
+    "prerequisites": [
+      82177
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 83201,
+    "legacy_name": "Charger",
+    "prerequisites": [
+      12545,
+      84993,
+      2049
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 83457,
+    "legacy_name": "Crafting CPU",
+    "prerequisites": [
+      87041,
+      90881
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 83713,
+    "legacy_name": "Crystal Growth Accelerator",
+    "prerequisites": [
+      12545,
+      84481,
+      7425
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 83969,
+    "legacy_name": "Crystal Growth Chamber",
+    "prerequisites": [
+      83713
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 84225,
+    "legacy_name": "Dense ME Cable",
+    "prerequisites": [
+      86017,
+      82433
+    ],
+    "quest_logic": "AND",
+    "task_logic": "OR",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 84481,
+    "legacy_name": "Energy Acceptor",
+    "prerequisites": [
+      82433,
+      12545
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 84737,
+    "legacy_name": "Energy Cell",
+    "prerequisites": [
+      84481
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 84993,
+    "legacy_name": "Fluix Crystal",
+    "prerequisites": [
+      13057,
+      82945
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 85249,
+    "legacy_name": "Infinity Booster Card",
+    "prerequisites": [
+      91393,
+      78593
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 85505,
+    "legacy_name": "Interface P2P",
+    "prerequisites": [
+      86529,
+      89345
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 85761,
+    "legacy_name": "ME Buses",
+    "prerequisites": [
+      86273
+    ],
+    "quest_logic": "AND",
+    "task_logic": "OR",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 86017,
+    "legacy_name": "ME Controller",
+    "prerequisites": [
+      33537,
+      84481
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 86273,
+    "legacy_name": "ME Drive",
+    "prerequisites": [
+      87809,
+      2049
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 86529,
+    "legacy_name": "ME Interface",
+    "prerequisites": [
+      86273
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 86785,
+    "legacy_name": "ME IO Port",
+    "prerequisites": [
+      90881
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 87041,
+    "legacy_name": "ME Pattern",
+    "prerequisites": [
+      45825,
+      86529
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 87297,
+    "legacy_name": "ME Storage Bus",
+    "prerequisites": [
+      86529
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 87553,
+    "legacy_name": "ME subnetting",
+    "prerequisites": [
+      87297
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 87809,
+    "legacy_name": "ME Terminal",
+    "prerequisites": [
+      84481,
+      20225
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 88065,
+    "legacy_name": "Modifier Cards",
+    "prerequisites": [
+      85761,
+      88321
+    ],
+    "quest_logic": "OR",
+    "task_logic": "OR",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 88321,
+    "legacy_name": "Molecular Assembler",
+    "prerequisites": [
+      83457
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 88577,
+    "legacy_name": "Network Tool",
+    "prerequisites": [
+      82433
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 88833,
+    "legacy_name": "Network Visualisation Tool",
+    "prerequisites": [
+      87809
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 89089,
+    "legacy_name": "Overflow Void Card",
+    "prerequisites": [
+      88065,
+      82689
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 89345,
+    "legacy_name": "P2P",
+    "prerequisites": [
+      86017
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 89601,
+    "legacy_name": "P2P Interface Parallelisation",
+    "prerequisites": [
+      85505,
+      81921
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 89857,
+    "legacy_name": "P2P ME Networking",
+    "prerequisites": [
+      89345
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 90113,
+    "legacy_name": "Pattern Capacity Card",
+    "prerequisites": [
+      88065
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 90369,
+    "legacy_name": "Quantum Network Bridge",
+    "prerequisites": [
+      90881,
+      79361,
+      84737,
+      86273
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 90625,
+    "legacy_name": "Spatial IO",
+    "prerequisites": [
+      86785
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 90881,
+    "legacy_name": "Storage Components",
+    "prerequisites": [
+      55809,
+      86273
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 91137,
+    "legacy_name": "Wireless Connectors",
+    "prerequisites": [
+      84481
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 91393,
+    "legacy_name": "Wireless Crafting Terminal",
+    "prerequisites": [
+      91649
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 91649,
+    "legacy_name": "Wireless Terminal",
+    "prerequisites": [
+      90881,
+      84737,
+      87809
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 91905,
+    "legacy_name": "ArchitectureCraft",
+    "prerequisites": [
+      23041
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 92161,
+    "legacy_name": "Auto Chisel",
+    "prerequisites": [
+      92929
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 92417,
+    "legacy_name": "Better Builder's Wands",
+    "prerequisites": [
+      23041
+    ],
+    "quest_logic": "AND",
+    "task_logic": "OR",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 92673,
+    "legacy_name": "Building Gadget",
+    "prerequisites": [
+      1537
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 92929,
+    "legacy_name": "Chisel",
+    "prerequisites": [
+      4865
+    ],
+    "quest_logic": "AND",
+    "task_logic": "OR",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 93185,
+    "legacy_name": "Modern Markings",
+    "prerequisites": [
+      92929
+    ],
+    "quest_logic": "AND",
+    "task_logic": "OR",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 93441,
+    "legacy_name": "Schematica",
+    "prerequisites": [
+      23041
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 93697,
+    "legacy_name": "Sign Pictures",
+    "prerequisites": [
+      23041
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 94465,
+    "legacy_name": "Balls-O-Tron",
+    "prerequisites": [
+      100097
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 94721,
+    "legacy_name": "Martian Invasion Ship",
+    "prerequisites": [
+      73729,
+      94465
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 94977,
+    "legacy_name": "§4§lMEGAKILL!",
+    "prerequisites": [
+      95745,
+      97281,
+      98817,
+      98049,
+      98561,
+      100097,
+      99329,
+      96513,
+      99073,
+      96257,
+      95233,
+      95489,
+      97537,
+      98305,
+      96001,
+      99585,
+      99841,
+      97025,
+      94721,
+      97793,
+      96769,
+      94465
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 95233,
+    "legacy_name": "Time to Kill (Blaze)",
+    "prerequisites": [
+      13057
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 95489,
+    "legacy_name": "Time to Kill (Chicken)",
+    "prerequisites": [
+      23041
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 95745,
+    "legacy_name": "Time to Kill (Cow)",
+    "prerequisites": [
+      23041
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 96001,
+    "legacy_name": "Time to Kill (Creeper)",
+    "prerequisites": [
+      23041
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 96257,
+    "legacy_name": "Time to Kill (Enderman)",
+    "prerequisites": [
+      23041
+    ],
+    "quest_logic": "AND",
+    "task_logic": "OR",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 96513,
+    "legacy_name": "Time to Kill (Ghast)",
+    "prerequisites": [
+      13057
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 96769,
+    "legacy_name": "Time to Kill (Magma Cube)",
+    "prerequisites": [
+      13057
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 97025,
+    "legacy_name": "Time to Kill (Pig)",
+    "prerequisites": [
+      23041
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 97281,
+    "legacy_name": "Time to Kill (Pigman)",
+    "prerequisites": [
+      13057
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 97537,
+    "legacy_name": "Time to Kill (Sheep)",
+    "prerequisites": [
+      23041
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 97793,
+    "legacy_name": "Time to Kill (Silverfish)",
+    "prerequisites": [
+      23041
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 98049,
+    "legacy_name": "Time to Kill (Skeleton)",
+    "prerequisites": [
+      23041
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 98305,
+    "legacy_name": "Time to Kill (Slime)",
+    "prerequisites": [
+      23041
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 98561,
+    "legacy_name": "Time to Kill (Spiders)",
+    "prerequisites": [
+      23041
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 98817,
+    "legacy_name": "Time to Kill (Squid)",
+    "prerequisites": [
+      23041
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 99073,
+    "legacy_name": "Time to Kill (Witch)",
+    "prerequisites": [
+      23041
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 99329,
+    "legacy_name": "Time to Kill (Wither)",
+    "prerequisites": [
+      99585
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 99585,
+    "legacy_name": "Time to Kill (Wither Skeleton)",
+    "prerequisites": [
+      13057
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 99841,
+    "legacy_name": "Time to Kill (Zombie)",
+    "prerequisites": [
+      23041
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 257,
+    "legacy_name": "Abandoned Structures",
+    "prerequisites": [
+      21761
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 513,
+    "legacy_name": "Additional Fluid Tools",
+    "prerequisites": [
+      6401
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 769,
+    "legacy_name": "Additional NTM Modes",
+    "prerequisites": [
+      25089
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 1025,
+    "legacy_name": "Air Intake",
+    "prerequisites": [
+      3841
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 1281,
+    "legacy_name": "Ammo Press and Guns",
+    "prerequisites": [
+      7425
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 1537,
+    "legacy_name": "Analog Circuit Board",
+    "prerequisites": [
+      20225
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 1793,
+    "legacy_name": "Anvil",
+    "prerequisites": [
+      23041
+    ],
+    "quest_logic": "AND",
+    "task_logic": "OR",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 2049,
+    "legacy_name": "Arc Welder",
+    "prerequisites": [
+      9473,
+      11521
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 2305,
+    "legacy_name": "Assembly Machine",
+    "prerequisites": [
+      20481,
+      18177,
+      23553,
+      21249
+    ],
+    "quest_logic": "OR",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 2561,
+    "legacy_name": "Automatic Buzz Saw",
+    "prerequisites": [
+      6913
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 2817,
+    "legacy_name": "Automatic Thresher",
+    "prerequisites": [
+      6913
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 3073,
+    "legacy_name": "Backpacks and Exploration",
+    "prerequisites": [
+      23041
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 3329,
+    "legacy_name": "Batteries",
+    "prerequisites": [
+      9729
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 3585,
+    "legacy_name": "Better Furnaces",
+    "prerequisites": [
+      23041
+    ],
+    "quest_logic": "AND",
+    "task_logic": "OR",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 3841,
+    "legacy_name": "Blast Furnace",
+    "prerequisites": [
+      10497
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 4097,
+    "legacy_name": "Blood Moon",
+    "prerequisites": [
+      25089
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 4353,
+    "legacy_name": "Bobmazon",
+    "prerequisites": [
+      23041
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 4609,
+    "legacy_name": "Boiler and Steam Condenser",
+    "prerequisites": [
+      7425
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 4865,
+    "legacy_name": "Burner Press",
+    "prerequisites": [
+      1793
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 5121,
+    "legacy_name": "Cable Network Analysis Tool",
+    "prerequisites": [
+      9729
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 5377,
+    "legacy_name": "Chainsaw",
+    "prerequisites": [
+      12801
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 5633,
+    "legacy_name": "Charcoal Automation",
+    "prerequisites": [
+      6913
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 5889,
+    "legacy_name": "Charging Station",
+    "prerequisites": [
+      9729
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 6145,
+    "legacy_name": "Charm of Protection",
+    "prerequisites": [
+      24065
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 6401,
+    "legacy_name": "Chemical Plant",
+    "prerequisites": [
+      1537
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 6657,
+    "legacy_name": "Cladding",
+    "prerequisites": [
+      19201
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 6913,
+    "legacy_name": "Combination Oven",
+    "prerequisites": [
+      7425
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 7169,
+    "legacy_name": "Conveyor Belt",
+    "prerequisites": [
+      4865
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 7425,
+    "legacy_name": "Crucible",
+    "prerequisites": [
+      12289
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 7681,
+    "legacy_name": "Dairy Processing Tank",
+    "prerequisites": [
+      2305
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 7937,
+    "legacy_name": "Diesel Generator",
+    "prerequisites": [
+      2305
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 8193,
+    "legacy_name": "Do a Barrel!",
+    "prerequisites": [
+      23041
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 8449,
+    "legacy_name": "Dosimeter",
+    "prerequisites": [
+      4865
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 8705,
+    "legacy_name": "Drainage Pipe",
+    "prerequisites": [
+      7425
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 8961,
+    "legacy_name": "Earth? Fake news",
+    "prerequisites": [
+      25089
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 9217,
+    "legacy_name": "Electric Furnace",
+    "prerequisites": [
+      9473,
+      7425
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 9473,
+    "legacy_name": "Electricity",
+    "prerequisites": [
+      20737
+    ],
+    "quest_logic": "AND",
+    "task_logic": "OR",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 9729,
+    "legacy_name": "Energy Cables",
+    "prerequisites": [
+      9473
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 9985,
+    "legacy_name": "Flare Stack",
+    "prerequisites": [
+      2305
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 10241,
+    "legacy_name": "Flint Tools",
+    "prerequisites": [
+      21761
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 10497,
+    "legacy_name": "Fluids",
+    "prerequisites": [
+      4865
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 10753,
+    "legacy_name": "From Flint to Oil - USA Simulator",
+    "prerequisites": [
+      6401,
+      22529,
+      19201
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 11009,
+    "legacy_name": "Geological Samples",
+    "prerequisites": [
+      16129
+    ],
+    "quest_logic": "AND",
+    "task_logic": "OR",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 11265,
+    "legacy_name": "Geological Survey",
+    "prerequisites": [
+      16129
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 11521,
+    "legacy_name": "Graphite",
+    "prerequisites": [
+      6913
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 11777,
+    "legacy_name": "Hazards",
+    "prerequisites": [
+      21761
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 12033,
+    "legacy_name": "Hazmat Suits",
+    "prerequisites": [
+      19201
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 12289,
+    "legacy_name": "Heating Oven/Firebox",
+    "prerequisites": [
+      20737
+    ],
+    "quest_logic": "AND",
+    "task_logic": "OR",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 12545,
+    "legacy_name": "HE to RF Converter",
+    "prerequisites": [
+      9473
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 12801,
+    "legacy_name": "High-Speed Steel",
+    "prerequisites": [
+      7425
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 13057,
+    "legacy_name": "Highway To Hell",
+    "prerequisites": [
+      2305
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 13313,
+    "legacy_name": "Industrial Hemp & Mustard Willow",
+    "prerequisites": [
+      21761
+    ],
+    "quest_logic": "AND",
+    "task_logic": "OR",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 13569,
+    "legacy_name": "Industrial Mixer",
+    "prerequisites": [
+      12801
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 13825,
+    "legacy_name": "Infinite Water Sources",
+    "prerequisites": [
+      20737
+    ],
+    "quest_logic": "AND",
+    "task_logic": "OR",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 14081,
+    "legacy_name": "Known Issues",
+    "prerequisites": [
+      25089
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 14337,
+    "legacy_name": "Long Distance Energy Transportation",
+    "prerequisites": [
+      6401,
+      19201
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 14593,
+    "legacy_name": "Machine Upgrade Template",
+    "prerequisites": [
+      1537
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 14849,
+    "legacy_name": "Mining Charge",
+    "prerequisites": [
+      6401
+    ],
+    "quest_logic": "AND",
+    "task_logic": "OR",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 15105,
+    "legacy_name": "Nailed It!",
+    "prerequisites": [
+      23041
+    ],
+    "quest_logic": "AND",
+    "task_logic": "OR",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 15361,
+    "legacy_name": "NOT FOR CASUALS",
+    "prerequisites": [
+      25089
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 15617,
+    "legacy_name": "Numbers in the Corner?",
+    "prerequisites": [
+      25089
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 15873,
+    "legacy_name": "Oily Sand",
+    "prerequisites": [
+      21761
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 16129,
+    "legacy_name": "Ore Generation System",
+    "prerequisites": [
+      10241
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 16385,
+    "legacy_name": "Packing Tape",
+    "prerequisites": [
+      22273
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 16641,
+    "legacy_name": "Pipe Anchors",
+    "prerequisites": [
+      10497
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 16897,
+    "legacy_name": "Player Decontaminator",
+    "prerequisites": [
+      19201
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 17153,
+    "legacy_name": "Pneumatic Pipes",
+    "prerequisites": [
+      24321
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 17409,
+    "legacy_name": "Pollution and Smokestack",
+    "prerequisites": [
+      20737
+    ],
+    "quest_logic": "AND",
+    "task_logic": "OR",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 17665,
+    "legacy_name": "Pollution Detector",
+    "prerequisites": [
+      19201
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 17921,
+    "legacy_name": "Primitive Crucible",
+    "prerequisites": [
+      23041
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 18177,
+    "legacy_name": "Radial Performance Engine",
+    "prerequisites": [
+      9473,
+      12801
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 18433,
+    "legacy_name": "Recycling",
+    "prerequisites": [
+      20737
+    ],
+    "quest_logic": "AND",
+    "task_logic": "OR",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 18689,
+    "legacy_name": "Rotary Furnace",
+    "prerequisites": [
+      4609
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 18945,
+    "legacy_name": "Settings Tool",
+    "prerequisites": [
+      1537
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 19201,
+    "legacy_name": "Shredder",
+    "prerequisites": [
+      2305
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 19457,
+    "legacy_name": "Sieving",
+    "prerequisites": [
+      23041
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 19713,
+    "legacy_name": "Silkworm",
+    "prerequisites": [
+      23041
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 19969,
+    "legacy_name": "Solar Tower Boiler",
+    "prerequisites": [
+      9473
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 20225,
+    "legacy_name": "Soldering Station",
+    "prerequisites": [
+      9473,
+      7425
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 20481,
+    "legacy_name": "Steam Engine",
+    "prerequisites": [
+      19969,
+      4609
+    ],
+    "quest_logic": "OR",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 20737,
+    "legacy_name": "Steel Anvil",
+    "prerequisites": [
+      3841
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 20993,
+    "legacy_name": "Steel Furnace",
+    "prerequisites": [
+      12289
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 21249,
+    "legacy_name": "Stirling Engine",
+    "prerequisites": [
+      12289,
+      9473
+    ],
+    "quest_logic": "AND",
+    "task_logic": "OR",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 21505,
+    "legacy_name": "Stirling Sawmill",
+    "prerequisites": [
+      12289
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 21761,
+    "legacy_name": "Stone Age",
+    "prerequisites": [
+      25089
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 22017,
+    "legacy_name": "Storage Drawer Keys",
+    "prerequisites": [
+      22273
+    ],
+    "quest_logic": "AND",
+    "task_logic": "OR",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 22273,
+    "legacy_name": "Storage Drawers",
+    "prerequisites": [
+      4865
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 22529,
+    "legacy_name": "Strand Caster",
+    "prerequisites": [
+      6401,
+      4609,
+      19201,
+      2049
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 22785,
+    "legacy_name": "Strawberry Ice Cream",
+    "prerequisites": [
+      6401
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 23041,
+    "legacy_name": "The Actual Beginning",
+    "prerequisites": [
+      16129
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 23297,
+    "legacy_name": "Trench Mask",
+    "prerequisites": [
+      11777
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 23553,
+    "legacy_name": "Wood-Burning Generator",
+    "prerequisites": [
+      9473
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 23809,
+    "legacy_name": "You WILL eat ze bugs!",
+    "prerequisites": [
+      19713
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "UNLOCKED",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 26369,
+    "legacy_name": "Aluminium Processing",
+    "prerequisites": [
+      13569,
+      31233
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 26625,
+    "legacy_name": "Antimatter",
+    "prerequisites": [
+      78081,
+      28929
+    ],
+    "quest_logic": "OR",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 26881,
+    "legacy_name": "Auxilary Cooling Tower",
+    "prerequisites": [
+      30209
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 27137,
+    "legacy_name": "Bakelite",
+    "prerequisites": [
+      28161
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 27393,
+    "legacy_name": "Balefire",
+    "prerequisites": [
+      35841
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 27649,
+    "legacy_name": "Basic Oil Processing",
+    "prerequisites": [
+      29697
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 27905,
+    "legacy_name": "Bedrock Ore Processing",
+    "prerequisites": [
+      28417
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 28161,
+    "legacy_name": "Catalytic Cracking Tower",
+    "prerequisites": [
+      29953
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 28417,
+    "legacy_name": "Centrifuge",
+    "prerequisites": [
+      1537,
+      35841
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 28673,
+    "legacy_name": "Coker Unit",
+    "prerequisites": [
+      37377
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 28929,
+    "legacy_name": "Cyclotron",
+    "prerequisites": [
+      37377,
+      33537
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 29185,
+    "legacy_name": "Delinquent",
+    "prerequisites": [
+      29953,
+      35841
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 29441,
+    "legacy_name": "Delinquent 2: Delinquent Harder",
+    "prerequisites": [
+      29185
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 29697,
+    "legacy_name": "Derrick",
+    "prerequisites": [
+      12801,
+      10753
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 29953,
+    "legacy_name": "Desh",
+    "prerequisites": [
+      6401,
+      27649
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 30209,
+    "legacy_name": "Desh Anvil",
+    "prerequisites": [
+      29953
+    ],
+    "quest_logic": "AND",
+    "task_logic": "OR",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 30465,
+    "legacy_name": "Desh Servo Set",
+    "prerequisites": [
+      24065,
+      29953
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 30721,
+    "legacy_name": "Electric Arc Furnace",
+    "prerequisites": [
+      35841
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 30977,
+    "legacy_name": "Electric Groundwater Pump",
+    "prerequisites": [
+      30209
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 31233,
+    "legacy_name": "Electrolysis Machine",
+    "prerequisites": [
+      37377,
+      33537
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 31489,
+    "legacy_name": "Fiberglass",
+    "prerequisites": [
+      35329
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 31745,
+    "legacy_name": "Geiger Counter",
+    "prerequisites": [
+      33537
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 32001,
+    "legacy_name": "Hydraulic Fracking Tower",
+    "prerequisites": [
+      29953,
+      19201
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 32257,
+    "legacy_name": "Impact Drill",
+    "prerequisites": [
+      35841
+    ],
+    "quest_logic": "AND",
+    "task_logic": "OR",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 32513,
+    "legacy_name": "Industrial Boiler",
+    "prerequisites": [
+      35841,
+      30209
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 32769,
+    "legacy_name": "Industrial Liquification Machine",
+    "prerequisites": [
+      33025
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 33025,
+    "legacy_name": "Industrial Solidification Machine",
+    "prerequisites": [
+      35841
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 33281,
+    "legacy_name": "Industrial Steam Turbine",
+    "prerequisites": [
+      33537,
+      37377
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 33537,
+    "legacy_name": "Integrated Circuit Board",
+    "prerequisites": [
+      34561
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 33793,
+    "legacy_name": "Jetpack",
+    "prerequisites": [
+      33537
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 34049,
+    "legacy_name": "Launch Pad",
+    "prerequisites": [
+      34817,
+      19201
+    ],
+    "quest_logic": "AND",
+    "task_logic": "OR",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 34305,
+    "legacy_name": "M1TTY Environment Suit",
+    "prerequisites": [
+      37377,
+      34561
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 34561,
+    "legacy_name": "Microchip",
+    "prerequisites": [
+      30721
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 34817,
+    "legacy_name": "Military Grade Circuit Board",
+    "prerequisites": [
+      37377,
+      34561
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 35073,
+    "legacy_name": "Mining Laser",
+    "prerequisites": [
+      35329
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 35329,
+    "legacy_name": "Ore Acidizer",
+    "prerequisites": [
+      33537,
+      29953
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 35585,
+    "legacy_name": "Pinwheels",
+    "prerequisites": [
+      38401
+    ],
+    "quest_logic": "AND",
+    "task_logic": "OR",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 35841,
+    "legacy_name": "Polymer",
+    "prerequisites": [
+      6401,
+      27649
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 36097,
+    "legacy_name": "Powered Drill",
+    "prerequisites": [
+      27649
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 36353,
+    "legacy_name": "Precision Assembly Machine",
+    "prerequisites": [
+      39425,
+      35329
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 36609,
+    "legacy_name": "Pumpjack",
+    "prerequisites": [
+      29953
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 36865,
+    "legacy_name": "Redstone Fluid Overflow",
+    "prerequisites": [
+      34561
+    ],
+    "quest_logic": "AND",
+    "task_logic": "OR",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 37121,
+    "legacy_name": "Refinery Power",
+    "prerequisites": [
+      33537
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 37377,
+    "legacy_name": "Rubber",
+    "prerequisites": [
+      28161
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 37633,
+    "legacy_name": "Semtex",
+    "prerequisites": [
+      37889
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 37889,
+    "legacy_name": "Solid Fuel",
+    "prerequisites": [
+      32769
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 38145,
+    "legacy_name": "Survey Scanner",
+    "prerequisites": [
+      34817
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 38401,
+    "legacy_name": "Tank",
+    "prerequisites": [
+      27649
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 38657,
+    "legacy_name": "Teleporter",
+    "prerequisites": [
+      34817
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 38913,
+    "legacy_name": "Transport Drones",
+    "prerequisites": [
+      33537
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 39169,
+    "legacy_name": "Weapon Steel",
+    "prerequisites": [
+      28673
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 59137,
+    "legacy_name": "Alkylation Unit",
+    "prerequisites": [
+      69121
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 59393,
+    "legacy_name": "Armospheric Liquefaction Tower",
+    "prerequisites": [
+      59649
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 59649,
+    "legacy_name": "Atmospheric Compressor",
+    "prerequisites": [
+      69121
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 59905,
+    "legacy_name": "Atmospheric Scanner",
+    "prerequisites": [
+      69121
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 60161,
+    "legacy_name": "Brine Processing",
+    "prerequisites": [
+      66305
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 60417,
+    "legacy_name": "CMB Insert",
+    "prerequisites": [
+      64769,
+      24065,
+      60929,
+      41985
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 60673,
+    "legacy_name": "CO2 Scrubber",
+    "prerequisites": [
+      69121
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 60929,
+    "legacy_name": "Cryogenic Distillation Machine",
+    "prerequisites": [
+      59649
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 61185,
+    "legacy_name": "Dres",
+    "prerequisites": [
+      61697
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 61441,
+    "legacy_name": "Drive Processor Tier 3",
+    "prerequisites": [
+      63489
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 61697,
+    "legacy_name": "Drive Processor Tier 2",
+    "prerequisites": [
+      62977
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 61953,
+    "legacy_name": "Drive Processor Tier 1",
+    "prerequisites": [
+      71169
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 62209,
+    "legacy_name": "Drop Pod",
+    "prerequisites": [
+      63745
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 62465,
+    "legacy_name": "Duna",
+    "prerequisites": [
+      61953
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 62721,
+    "legacy_name": "Eve",
+    "prerequisites": [
+      60417,
+      61697
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 62977,
+    "legacy_name": "Gallium Arsenide",
+    "prerequisites": [
+      64001,
+      65793
+    ],
+    "quest_logic": "OR",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 63233,
+    "legacy_name": "Gas Giant Harvester",
+    "prerequisites": [
+      64513
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 63489,
+    "legacy_name": "Hafnium",
+    "prerequisites": [
+      62721,
+      61185
+    ],
+    "quest_logic": "OR",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 63745,
+    "legacy_name": "Hydrazine",
+    "prerequisites": [
+      60929
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 64001,
+    "legacy_name": "Ike",
+    "prerequisites": [
+      61953
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 64257,
+    "legacy_name": "Industrial Greenhouse",
+    "prerequisites": [
+      69121
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 64513,
+    "legacy_name": "Jool",
+    "prerequisites": [
+      64769
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 64769,
+    "legacy_name": "Laythe",
+    "prerequisites": [
+      61441
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 65025,
+    "legacy_name": "Magma Drill",
+    "prerequisites": [
+      62977
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 65281,
+    "legacy_name": "Microgravity Algae Film",
+    "prerequisites": [
+      64769,
+      69121
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 65537,
+    "legacy_name": "Mobile Orbital Station",
+    "prerequisites": [
+      45825,
+      62209,
+      67073,
+      67329
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 65793,
+    "legacy_name": "Moho",
+    "prerequisites": [
+      61953
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 66049,
+    "legacy_name": "Mun Cow?!",
+    "prerequisites": [
+      66305
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 66305,
+    "legacy_name": "Mun/Minmus",
+    "prerequisites": [
+      67841,
+      68609
+    ],
+    "quest_logic": "AND",
+    "task_logic": "OR",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 66561,
+    "legacy_name": "My First Volcano!",
+    "prerequisites": [
+      70145
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 66817,
+    "legacy_name": "Occasionally Heavy Boots",
+    "prerequisites": [
+      67841
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 67073,
+    "legacy_name": "Orbital Station",
+    "prerequisites": [
+      45825,
+      69121
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 67329,
+    "legacy_name": "Orbital Station Computer",
+    "prerequisites": [
+      62465,
+      65793
+    ],
+    "quest_logic": "OR",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 67585,
+    "legacy_name": "Rocket Assembling and Launching",
+    "prerequisites": [
+      34817
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 67841,
+    "legacy_name": "Rocket Preparations",
+    "prerequisites": [
+      67585,
+      69377
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 68097,
+    "legacy_name": "Rocket Transporter Pad",
+    "prerequisites": [
+      66305
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 68353,
+    "legacy_name": "Solar Panel",
+    "prerequisites": [
+      69121
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 68609,
+    "legacy_name": "Space Equipment",
+    "prerequisites": [
+      37377,
+      33537,
+      24065
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 68865,
+    "legacy_name": "Space Map",
+    "prerequisites": [
+      37377,
+      33537
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 69121,
+    "legacy_name": "Stainless Steel",
+    "prerequisites": [
+      60161
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 69377,
+    "legacy_name": "Stardar and Drive Processor",
+    "prerequisites": [
+      33537
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 69633,
+    "legacy_name": "StarDar Remote Access Console",
+    "prerequisites": [
+      69377,
+      30209
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 69889,
+    "legacy_name": "Steam Radiator",
+    "prerequisites": [
+      69121
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 70145,
+    "legacy_name": "Tectonic Missile",
+    "prerequisites": [
+      39425
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 70401,
+    "legacy_name": "Tekto",
+    "prerequisites": [
+      61441
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 70657,
+    "legacy_name": "Teleporter",
+    "prerequisites": [
+      60929
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 70913,
+    "legacy_name": "The Mun is Cheese...",
+    "prerequisites": [
+      66049
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 71169,
+    "legacy_name": "Vacuum Solderer",
+    "prerequisites": [
+      66305
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 71425,
+    "legacy_name": "Volcanic Gem",
+    "prerequisites": [
+      66561
+    ],
+    "quest_logic": "OR",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 39681,
+    "legacy_name": "Additional Fusion Attachments",
+    "prerequisites": [
+      45057
+    ],
+    "quest_logic": "AND",
+    "task_logic": "OR",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 39937,
+    "legacy_name": "Advanced Oil Processing",
+    "prerequisites": [
+      57089,
+      29953,
+      56065,
+      24321
+    ],
+    "quest_logic": "AND",
+    "task_logic": "OR",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 40193,
+    "legacy_name": "Arsenic",
+    "prerequisites": [
+      47105,
+      35329
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 40449,
+    "legacy_name": "Big-Ass Tank",
+    "prerequisites": [
+      57857
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 40705,
+    "legacy_name": "Bismuth",
+    "prerequisites": [
+      47361,
+      53249
+    ],
+    "quest_logic": "OR",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 40961,
+    "legacy_name": "BTX",
+    "prerequisites": [
+      53505
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 41217,
+    "legacy_name": "Cadmium",
+    "prerequisites": [
+      47105,
+      35329
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 41473,
+    "legacy_name": "Chicago Pile",
+    "prerequisites": [
+      28417,
+      24321
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 41729,
+    "legacy_name": "Chlorophyte",
+    "prerequisites": [
+      45057
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 41985,
+    "legacy_name": "CMB Steel",
+    "prerequisites": [
+      54529,
+      49153
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 42241,
+    "legacy_name": "Cooling Tower",
+    "prerequisites": [
+      4609,
+      44289
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 42497,
+    "legacy_name": "Crystalline Fullerite",
+    "prerequisites": [
+      13569,
+      43521,
+      47105,
+      40961,
+      35329
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 42753,
+    "legacy_name": "Depth-Resource Scanning Satellite",
+    "prerequisites": [
+      47873
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 43009,
+    "legacy_name": "Desh Stamps",
+    "prerequisites": [
+      44033
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 43265,
+    "legacy_name": "Deuterium Extraction Tower",
+    "prerequisites": [
+      56833,
+      39937
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 43521,
+    "legacy_name": "FEL and SILEX",
+    "prerequisites": [
+      33537,
+      37377,
+      29953
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 43777,
+    "legacy_name": "Ferric Schrabidate",
+    "prerequisites": [
+      54273,
+      48129
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 44033,
+    "legacy_name": "Ferrouranium",
+    "prerequisites": [
+      56577
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 44289,
+    "legacy_name": "Ferrouranium Anvil",
+    "prerequisites": [
+      44033
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 44545,
+    "legacy_name": "Fissile Materials",
+    "prerequisites": [
+      41473,
+      50177,
+      45313,
+      53249
+    ],
+    "quest_logic": "OR",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 44801,
+    "legacy_name": "Fusion Power",
+    "prerequisites": [
+      45057
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 45057,
+    "legacy_name": "Fusion Reactor",
+    "prerequisites": [
+      57089,
+      17153,
+      57857
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 45313,
+    "legacy_name": "Gas Centrifuge",
+    "prerequisites": [
+      29953,
+      34817
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 45569,
+    "legacy_name": "Gravity Gun",
+    "prerequisites": [
+      33537,
+      39169,
+      54273
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 45825,
+    "legacy_name": "Hard Plastic/PVC Bars",
+    "prerequisites": [
+      41217,
+      40961
+    ],
+    "quest_logic": "OR",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 46081,
+    "legacy_name": "Heat Exchanging Heater",
+    "prerequisites": [
+      37377,
+      30209
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 46337,
+    "legacy_name": "Heavy Magnetic Storage Tank",
+    "prerequisites": [
+      54017,
+      57857
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 46593,
+    "legacy_name": "Helium-4",
+    "prerequisites": [
+      45057
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 46849,
+    "legacy_name": "HEV Mark IV",
+    "prerequisites": [
+      33537,
+      29953,
+      44289
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 47105,
+    "legacy_name": "High-Performance Solvent",
+    "prerequisites": [
+      52993
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 47361,
+    "legacy_name": "High-Performance Solvent Bedrock Ore Processing",
+    "prerequisites": [
+      27905,
+      47105
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 47617,
+    "legacy_name": "High-Power Steam Condenser",
+    "prerequisites": [
+      29953,
+      57857
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 47873,
+    "legacy_name": "Houston, We Have a Signal",
+    "prerequisites": [
+      67585,
+      54785
+    ],
+    "quest_logic": "OR",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 48129,
+    "legacy_name": "Ionized Particles",
+    "prerequisites": [
+      45057
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 48385,
+    "legacy_name": "Large Factory Multiblocks",
+    "prerequisites": [
+      56065
+    ],
+    "quest_logic": "AND",
+    "task_logic": "OR",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 48641,
+    "legacy_name": "Leviathan Steam Turbine",
+    "prerequisites": [
+      56065
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 48897,
+    "legacy_name": "Liquidator Medal",
+    "prerequisites": [
+      52993,
+      24065
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 49153,
+    "legacy_name": "Magnetized Tungsten",
+    "prerequisites": [
+      54273,
+      3841
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 49409,
+    "legacy_name": "Narrowband Emission Scanning Satellite",
+    "prerequisites": [
+      47873
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 49665,
+    "legacy_name": "Neutrino Lens",
+    "prerequisites": [
+      57089,
+      33537,
+      24065,
+      42753,
+      55297,
+      30209
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 49921,
+    "legacy_name": "Nuclear Bombs",
+    "prerequisites": [
+      39425,
+      44545
+    ],
+    "quest_logic": "AND",
+    "task_logic": "OR",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 50177,
+    "legacy_name": "Nuclear Fuel Processing",
+    "prerequisites": [
+      51457,
+      55041
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 50433,
+    "legacy_name": "Nuclear Waste Disposal Drum",
+    "prerequisites": [
+      55041
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 50689,
+    "legacy_name": "Orbital Death Ray",
+    "prerequisites": [
+      47873
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 50945,
+    "legacy_name": "Orbital Precision Laser",
+    "prerequisites": [
+      47873
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 51201,
+    "legacy_name": "Plasma Forge",
+    "prerequisites": [
+      45057
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 51457,
+    "legacy_name": "PUREX",
+    "prerequisites": [
+      33537,
+      37377,
+      29953
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 51713,
+    "legacy_name": "PWR",
+    "prerequisites": [
+      33537,
+      28417,
+      46081
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 51969,
+    "legacy_name": "PWR powered Steel Furnace",
+    "prerequisites": [
+      51713
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 52225,
+    "legacy_name": "Pyrolysis Oven",
+    "prerequisites": [
+      42497
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 52481,
+    "legacy_name": "Radar Survey Satellite",
+    "prerequisites": [
+      47873
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 52737,
+    "legacy_name": "Radiation-Powered Engine",
+    "prerequisites": [
+      33537,
+      55297,
+      49153,
+      35329
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 52993,
+    "legacy_name": "RBMK",
+    "prerequisites": [
+      28417
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 53249,
+    "legacy_name": "RBMK Fuel Processing",
+    "prerequisites": [
+      43521,
+      50433
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 53505,
+    "legacy_name": "Reformate",
+    "prerequisites": [
+      56833,
+      39937
+    ],
+    "quest_logic": "OR",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 53761,
+    "legacy_name": "Reformate Gas",
+    "prerequisites": [
+      56833,
+      39937
+    ],
+    "quest_logic": "OR",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 54017,
+    "legacy_name": "Saturnite",
+    "prerequisites": [
+      18689,
+      53761
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 54273,
+    "legacy_name": "Schrabidium",
+    "prerequisites": [
+      50177,
+      49921
+    ],
+    "quest_logic": "OR",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 54529,
+    "legacy_name": "Solid Mud Brick",
+    "prerequisites": [
+      57601,
+      54273
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 54785,
+    "legacy_name": "Soyuz-FG",
+    "prerequisites": [
+      34817,
+      45825,
+      39425
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 55041,
+    "legacy_name": "Spent Fuel Pool Drum",
+    "prerequisites": [
+      52993,
+      58625,
+      51713
+    ],
+    "quest_logic": "OR",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 55297,
+    "legacy_name": "Starmetal",
+    "prerequisites": [
+      54017
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 55553,
+    "legacy_name": "Starmetal Pickaxe",
+    "prerequisites": [
+      55297
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 55809,
+    "legacy_name": "Technetium-99",
+    "prerequisites": [
+      47361,
+      50177
+    ],
+    "quest_logic": "OR",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 56065,
+    "legacy_name": "Technetium/Cadmium Steel",
+    "prerequisites": [
+      55809,
+      41217
+    ],
+    "quest_logic": "OR",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 56321,
+    "legacy_name": "Tungsten Carbide",
+    "prerequisites": [
+      52225
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 56577,
+    "legacy_name": "Uranium-238",
+    "prerequisites": [
+      50177,
+      45313
+    ],
+    "quest_logic": "OR",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 56833,
+    "legacy_name": "Vacuum Refinery",
+    "prerequisites": [
+      29953,
+      56065,
+      57345,
+      24321
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 57089,
+    "legacy_name": "Versatile Circuit Board",
+    "prerequisites": [
+      45825,
+      57345
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 57345,
+    "legacy_name": "Versatile Integrated Circuit",
+    "prerequisites": [
+      40193,
+      40705
+    ],
+    "quest_logic": "OR",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 57601,
+    "legacy_name": "Watz Powerplant",
+    "prerequisites": [
+      57089,
+      29953,
+      34817,
+      13569,
+      54017,
+      57857
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 57857,
+    "legacy_name": "Welded Technetium/Cadmium Steel Plate",
+    "prerequisites": [
+      56065
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 58113,
+    "legacy_name": "Wideband Radio Emission Detector Satellite",
+    "prerequisites": [
+      47873
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 58369,
+    "legacy_name": "Xenium Resonator Satellite",
+    "prerequisites": [
+      47873
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 58625,
+    "legacy_name": "ZIRNOX",
+    "prerequisites": [
+      37377,
+      33537,
+      4609
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 72449,
+    "legacy_name": "Balls-O-Tron",
+    "prerequisites": [
+      50177,
+      100097,
+      39425
+    ],
+    "quest_logic": "AND",
+    "task_logic": "OR",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": false,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 72705,
+    "legacy_name": "Chicken Nugget",
+    "prerequisites": [
+      77825
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 72961,
+    "legacy_name": "DFC",
+    "prerequisites": [
+      79873,
+      55297,
+      81153
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 73217,
+    "legacy_name": "Digamma Laser Crystal",
+    "prerequisites": [
+      80129,
+      80641
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 73473,
+    "legacy_name": "Dineurtom amrr",
+    "prerequisites": [
+      73729
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 73729,
+    "legacy_name": "Dineutronium",
+    "prerequisites": [
+      78081,
+      43777,
+      26625
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 73985,
+    "legacy_name": "Dineutronium Anvil",
+    "prerequisites": [
+      73729
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 74241,
+    "legacy_name": "DNT Nanosuit",
+    "prerequisites": [
+      81409
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 74497,
+    "legacy_name": "§cDone",
+    "prerequisites": [
+      78849,
+      74241,
+      80385
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 74753,
+    "legacy_name": "Euphemium",
+    "prerequisites": [
+      78081,
+      57601,
+      51713
+    ],
+    "quest_logic": "OR",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 75009,
+    "legacy_name": "Exposure Chamber",
+    "prerequisites": [
+      57089,
+      29953,
+      56065,
+      39425
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 75265,
+    "legacy_name": "FEnSU",
+    "prerequisites": [
+      42497,
+      80129,
+      55297,
+      81153,
+      51201,
+      73729
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 75521,
+    "legacy_name": "Gerald the Construction Android",
+    "prerequisites": [
+      76545,
+      78337,
+      76289,
+      80897,
+      51201
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 75777,
+    "legacy_name": "§c§l§4§lHOW THE FUCK?!",
+    "prerequisites": [
+      79105
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "COMPLETED",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 76033,
+    "legacy_name": "ICF",
+    "prerequisites": [
+      42497,
+      43777,
+      78593,
+      51201
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 76289,
+    "legacy_name": "ICF Fuels",
+    "prerequisites": [
+      76033
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 76545,
+    "legacy_name": "ICF Laser",
+    "prerequisites": [
+      76033
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 76801,
+    "legacy_name": "ICF Laser Turbocharger",
+    "prerequisites": [
+      76033,
+      73729
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 77057,
+    "legacy_name": "Magnetohydrodynamic Turbines",
+    "prerequisites": [
+      78593
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 77313,
+    "legacy_name": "Murky Anvil",
+    "prerequisites": [
+      27393,
+      80641
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 77569,
+    "legacy_name": "Osmiridium",
+    "prerequisites": [
+      79617,
+      75521
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 77825,
+    "legacy_name": "Particle Accelerator",
+    "prerequisites": [
+      78593
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 78081,
+    "legacy_name": "Particle Capsules",
+    "prerequisites": [
+      75009,
+      77825
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 78337,
+    "legacy_name": "Quantum Computer",
+    "prerequisites": [
+      79361,
+      39425,
+      35329
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 78593,
+    "legacy_name": "Quantum Processing Unit",
+    "prerequisites": [
+      46593,
+      79361
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 78849,
+    "legacy_name": "Schrabidium Hammer",
+    "prerequisites": [
+      81409
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 79105,
+    "legacy_name": "Secret Catalogue",
+    "prerequisites": [
+      4353
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 79361,
+    "legacy_name": "Solid State Quantum Processor",
+    "prerequisites": [
+      48129
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 79617,
+    "legacy_name": "Spark Laser Crystal",
+    "prerequisites": [
+      27393,
+      74753,
+      73729
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 79873,
+    "legacy_name": "Spark Singularity",
+    "prerequisites": [
+      73985,
+      41985,
+      74753,
+      49153
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 80129,
+    "legacy_name": "The Book of Boxcars",
+    "prerequisites": [
+      23041
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 80385,
+    "legacy_name": "The Crucible",
+    "prerequisites": [
+      81409
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 80641,
+    "legacy_name": "The Digamma Particle",
+    "prerequisites": [
+      78081,
+      26625,
+      41729
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 80897,
+    "legacy_name": "UFO",
+    "prerequisites": [
+      72449,
+      73729
+    ],
+    "quest_logic": "AND",
+    "task_logic": "OR",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": false,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 81153,
+    "legacy_name": "Welded Osmiridium Plate",
+    "prerequisites": [
+      77569
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 81409,
+    "legacy_name": "Yharonite Billet",
+    "prerequisites": [
+      71937,
+      72961
+    ],
+    "quest_logic": "OR",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 93953,
+    "legacy_name": "Agriculture and Farming",
+    "prerequisites": [
+      21761
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 24065,
+    "legacy_name": "Armor Modifications",
+    "prerequisites": [
+      3841
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 24321,
+    "legacy_name": "Compressor",
+    "prerequisites": [
+      1537
+    ],
+    "quest_logic": "AND",
+    "task_logic": "OR",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 71681,
+    "legacy_name": "Dyson Anatmogenesis Terraformer",
+    "prerequisites": [
+      71937
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 71937,
+    "legacy_name": "Dyson Swarms",
+    "prerequisites": [
+      77569,
+      69121,
+      51201,
+      63489
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 24577,
+    "legacy_name": "Glyphids",
+    "prerequisites": [
+      11777
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 24833,
+    "legacy_name": "Guide Book",
+    "prerequisites": [
+      25089
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 94209,
+    "legacy_name": "Hunger System",
+    "prerequisites": [
+      21761
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 100097,
+    "legacy_name": "Maskman",
+    "prerequisites": [
+      52993,
+      58625,
+      51713
+    ],
+    "quest_logic": "OR",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 25089,
+    "legacy_name": "Modpack information",
+    "prerequisites": [],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "ALWAYS",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 25345,
+    "legacy_name": "Quests information",
+    "prerequisites": [
+      25089
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 58881,
+    "legacy_name": "Red Key",
+    "prerequisites": [
+      55297
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 25601,
+    "legacy_name": "Safes and lockpicking",
+    "prerequisites": [
+      3841
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 39425,
+    "legacy_name": "Tantalium",
+    "prerequisites": [
+      57601,
+      29697,
+      61185
+    ],
+    "quest_logic": "OR",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 72193,
+    "legacy_name": "The End of Space...",
+    "prerequisites": [
+      71681
+    ],
+    "quest_logic": "OR",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 25857,
+    "legacy_name": "Useful Tools",
+    "prerequisites": [
+      3841
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 106753,
+    "legacy_name": "Additional Fluid Tools",
+    "prerequisites": [],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 107009,
+    "legacy_name": "Brine Processing",
+    "prerequisites": [
+      66305
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 100353,
+    "legacy_name": "Card Base",
+    "prerequisites": [
+      35841,
+      104961
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 100609,
+    "legacy_name": "Component Buses",
+    "prerequisites": [
+      101377,
+      103425
+    ],
+    "quest_logic": "AND",
+    "task_logic": "OR",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 100865,
+    "legacy_name": "Computer",
+    "prerequisites": [
+      104193,
+      101121,
+      102401,
+      102657,
+      103169,
+      101633
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 101121,
+    "legacy_name": "Computer Casings",
+    "prerequisites": [
+      103425
+    ],
+    "quest_logic": "AND",
+    "task_logic": "OR",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 101377,
+    "legacy_name": "Control and Arithmetics Units",
+    "prerequisites": [
+      104705
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 101633,
+    "legacy_name": "CPUs",
+    "prerequisites": [
+      101377,
+      103425
+    ],
+    "quest_logic": "AND",
+    "task_logic": "OR",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 101889,
+    "legacy_name": "Electronic Assembler",
+    "prerequisites": [
+      103681
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 102145,
+    "legacy_name": "Floppy Disks and Disk Drive",
+    "prerequisites": [
+      103425
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 102401,
+    "legacy_name": "Graphics Cards",
+    "prerequisites": [
+      101377,
+      100353,
+      103169
+    ],
+    "quest_logic": "AND",
+    "task_logic": "OR",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 102657,
+    "legacy_name": "Hard Drives",
+    "prerequisites": [
+      103425
+    ],
+    "quest_logic": "AND",
+    "task_logic": "OR",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 102913,
+    "legacy_name": "Internet Card",
+    "prerequisites": [
+      103425,
+      100353
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 103169,
+    "legacy_name": "Memory",
+    "prerequisites": [
+      103425
+    ],
+    "quest_logic": "AND",
+    "task_logic": "OR",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 103425,
+    "legacy_name": "Microchips",
+    "prerequisites": [
+      104705
+    ],
+    "quest_logic": "AND",
+    "task_logic": "OR",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 103681,
+    "legacy_name": "OC Power",
+    "prerequisites": [
+      103425,
+      12545
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 103937,
+    "legacy_name": "PWRangler",
+    "prerequisites": [
+      100865,
+      51713
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 104193,
+    "legacy_name": "Screens",
+    "prerequisites": [
+      103425
+    ],
+    "quest_logic": "AND",
+    "task_logic": "OR",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 104449,
+    "legacy_name": "Servers",
+    "prerequisites": [
+      100609,
+      103169
+    ],
+    "quest_logic": "AND",
+    "task_logic": "OR",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 104705,
+    "legacy_name": "Transistors",
+    "prerequisites": [
+      104961
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 104961,
+    "legacy_name": "Welcome to OC!",
+    "prerequisites": [
+      30721
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 105217,
+    "legacy_name": "Wireless Network Card",
+    "prerequisites": [
+      103425,
+      100353
+    ],
+    "quest_logic": "AND",
+    "task_logic": "OR",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 105473,
+    "legacy_name": "LV1 > LV2 Lootbag Trade",
+    "prerequisites": [
+      10753
+    ],
+    "quest_logic": "AND",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": 0,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 105729,
+    "legacy_name": "LV2 > LV3 Lootbag Trade",
+    "prerequisites": [
+      52993,
+      58625,
+      51713
+    ],
+    "quest_logic": "OR",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": 0,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 105985,
+    "legacy_name": "LV3.5 > LV4 Lootbag Trade",
+    "prerequisites": [
+      80129
+    ],
+    "quest_logic": "OR",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": 0,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 106241,
+    "legacy_name": "LV3 > LV3.5 Lootbag Trade",
+    "prerequisites": [
+      52993,
+      58625,
+      41473,
+      51713
+    ],
+    "quest_logic": "OR",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": 0,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 106497,
+    "legacy_name": "LV3 > LV4 Lootbag Trade",
+    "prerequisites": [
+      80129
+    ],
+    "quest_logic": "OR",
+    "task_logic": "AND",
+    "visibility": "NORMAL",
+    "repeat_time": 0,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  },
+  {
+    "quest": 26113,
+    "legacy_name": "Infinite Water Sources",
+    "prerequisites": [
+      20737
+    ],
+    "quest_logic": "AND",
+    "task_logic": "OR",
+    "visibility": "NORMAL",
+    "repeat_time": -1,
+    "repeat_relative": true,
+    "snd_complete": "minecraft:entity.player.levelup"
+  }
+]

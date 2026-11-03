@@ -1,0 +1,5 @@
+Chisel by AUTOMATIC_MAIDEN, Cricket, Chisel Team and GTNH contributors.
+Reference: GTNH_chisel-2.17.31-GTNH.jar, supplied with NTNH.
+Two original tool textures copied unchanged. Original license included alongside this notice.
+Native menus and carving are provided by the installed Chisel 1.20.1 mod.
+Corresponding NTNHCore adaptation source: developer/ntnhcore-port.

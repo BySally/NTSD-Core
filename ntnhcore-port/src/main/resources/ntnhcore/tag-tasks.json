@@ -1,0 +1,301 @@
+{
+  "63FC8B232D7B1399": {
+    "requirements": [
+      {
+        "tag": "storagedrawers:drawers",
+        "count": 1
+      }
+    ],
+    "consume": false,
+    "any": false
+  },
+  "10B9C53EFC802AE0": {
+    "requirements": [
+      {
+        "item": "hbm:nugget_arsenic",
+        "count": 1
+      }
+    ],
+    "consume": false,
+    "any": false
+  },
+  "766739A836A2566E": {
+    "requirements": [
+      {
+        "item": "hbm:nugget_bismuth",
+        "count": 1
+      }
+    ],
+    "consume": false,
+    "any": false
+  },
+  "3FCDFFBE0062D50B": {
+    "requirements": [
+      {
+        "item": "hbm:hand_drill",
+        "count": 1
+      },
+      {
+        "item": "hbm:screwdriver",
+        "count": 1
+      }
+    ],
+    "consume": false,
+    "any": false
+  },
+  "3276A4BC16BD5F29": {
+    "requirements": [
+      {
+        "item": "hbm:ingot_pc",
+        "count": 1
+      }
+    ],
+    "consume": false,
+    "any": false
+  },
+  "73E9BC71FAD77786": {
+    "requirements": [
+      {
+        "item": "hbm:gas_full",
+        "count": 1
+      }
+    ],
+    "consume": false,
+    "any": false
+  },
+  "3534E21D9E619D90": {
+    "requirements": [
+      {
+        "tag": "c:ingots/any_resistant_alloy",
+        "count": 1
+      }
+    ],
+    "consume": false,
+    "any": false
+  },
+  "7724C6B59F6D7870": {
+    "requirements": [
+      {
+        "tag": "c:plates_welded/any_resistant_alloy",
+        "count": 1
+      }
+    ],
+    "consume": false,
+    "any": false
+  },
+  "5A695EA0EFBBB592": {
+    "requirements": [
+      {
+        "tag": "minecraft:signs",
+        "count": 1
+      }
+    ],
+    "consume": false,
+    "any": false
+  },
+  "35465A87174EA994": {
+    "requirements": [
+      {
+        "item": "hbm:fluid_tank",
+        "count": 1,
+        "fluid": "AMAT",
+        "amount": 1000
+      }
+    ],
+    "consume": false,
+    "any": false
+  },
+  "7F39E5616364661E": {
+    "requirements": [
+      {
+        "item": "hbm:elec_pickaxe",
+        "count": 1,
+        "charge": 500000
+      }
+    ],
+    "consume": false,
+    "any": false
+  },
+  "13D09AB8C9505F73": {
+    "requirements": [
+      {
+        "item": "hbm:envsuit_helmet",
+        "count": 1,
+        "charge": 100000
+      },
+      {
+        "item": "hbm:envsuit_plate",
+        "count": 1,
+        "charge": 100000
+      },
+      {
+        "item": "hbm:envsuit_legs",
+        "count": 1,
+        "charge": 100000
+      },
+      {
+        "item": "hbm:envsuit_boots",
+        "count": 1,
+        "charge": 100000
+      }
+    ],
+    "consume": false,
+    "any": false
+  },
+  "015B1795EC114096": {
+    "requirements": [
+      {
+        "item": "hbm:fluid_tank",
+        "count": 1,
+        "fluid": "HYDRAZINE",
+        "amount": 1000
+      }
+    ],
+    "consume": false,
+    "any": false
+  },
+  "0D7FB4223FDF1945": {
+    "requirements": [
+      {
+        "item": "hbm:fluid_tank",
+        "count": 1,
+        "fluid": "XYLENE",
+        "amount": 1000
+      }
+    ],
+    "consume": false,
+    "any": false
+  },
+  "7F71E6D4527EA804": {
+    "requirements": [
+      {
+        "item": "hbm:hev_helmet",
+        "count": 1,
+        "charge": 1000000
+      },
+      {
+        "item": "hbm:hev_plate",
+        "count": 1,
+        "charge": 1000000
+      },
+      {
+        "item": "hbm:hev_legs",
+        "count": 1,
+        "charge": 1000000
+      },
+      {
+        "item": "hbm:hev_boots",
+        "count": 1,
+        "charge": 1000000
+      }
+    ],
+    "consume": false,
+    "any": false
+  },
+  "6010B94ABAE90EAC": {
+    "requirements": [
+      {
+        "item": "hbm:fluid_tank",
+        "count": 1,
+        "fluid": "REFORMGAS",
+        "amount": 1000
+      }
+    ],
+    "consume": false,
+    "any": false
+  },
+  "10B25FAD3DC5C5AB": {
+    "requirements": [
+      {
+        "item": "hbm:dns_helmet",
+        "count": 1,
+        "charge": 1000000000
+      },
+      {
+        "item": "hbm:dns_plate",
+        "count": 1,
+        "charge": 1000000000
+      },
+      {
+        "item": "hbm:dns_legs",
+        "count": 1,
+        "charge": 1000000000
+      },
+      {
+        "item": "hbm:dns_boots",
+        "count": 1,
+        "charge": 1000000000
+      }
+    ],
+    "consume": false,
+    "any": false
+  },
+  "59D81EE87DB6256E": {
+    "requirements": [
+      {
+        "item": "hbm:bolt_dura_steel",
+        "count": 960
+      },
+      {
+        "item": "hbm:icf_component_structure",
+        "count": 240
+      },
+      {
+        "item": "hbm:plate_cast_steel",
+        "count": 240
+      },
+      {
+        "item": "hbm:icf_component_vessel",
+        "count": 117
+      },
+      {
+        "tag": "c:plates_cast/any_bismoid_bronze",
+        "count": 117
+      },
+      {
+        "item": "hbm:icf_component",
+        "count": 50
+      },
+      {
+        "item": "hbm:struct_icf_core",
+        "count": 1
+      }
+    ],
+    "consume": false,
+    "any": false
+  },
+  "7B255106AC2EB94E": {
+    "requirements": [
+      {
+        "item": "hbm:fluid_tank",
+        "count": 1,
+        "fluid": "BRINE",
+        "amount": 1000
+      }
+    ],
+    "consume": false,
+    "any": false
+  },
+  "32B4074862BA0347": {
+    "requirements": [
+      {
+        "item": "hbm:fluid_tank",
+        "count": 1,
+        "fluid": "BRINE",
+        "amount": 1000
+      }
+    ],
+    "consume": false,
+    "any": false
+  },
+  "472E6593EB6CBFF3": {
+    "requirements": [
+      {
+        "tag": "ntnhcore:legacy_backpacks",
+        "count": 1
+      }
+    ],
+    "consume": false,
+    "any": false
+  }
+}

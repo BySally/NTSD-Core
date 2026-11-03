@@ -1,0 +1,6 @@
+NTSD 0.1.0-alpha.6 CF candidate, 2026-11-02. Project Creator & Maintainer: BySally.
+Core code: GPL-3.0-or-later; retained third-party asset terms in META-INF/licenses.
+Quest adaptation: NTNH / Bufka2011 and contributors, CC BY-NC-SA 4.0 for covered materials; not original NTSD authorship.
+Press Start 2P: Copyright 2012 The Press Start 2P Project Authors, SIL OFL 1.1, unmodified font. https://github.com/google/fonts/tree/main/ofl/pressstart2p
+PNC recipe: desht / MineMaarten, PneumaticCraft Repressurized 6.0.23, GPL-3.0-only. Only malformed wireless-modem ingredient replaced; same ID, conditions, counts and output.
+No Minecraft font glyphs or Improving Minecraft flint pixels are distributed by this candidate.

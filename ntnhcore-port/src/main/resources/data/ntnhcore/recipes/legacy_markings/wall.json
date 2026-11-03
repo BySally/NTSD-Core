@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XY"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:paper"
+    },
+    "Y": {
+      "tag": "ntnhcore:legacy_wooden_planks"
+    }
+  },
+  "result": {
+    "item": "ags_modernmarkings:wall_marking_exit",
+    "count": 64
+  }
+}

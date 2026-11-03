@@ -1,0 +1,20 @@
+{
+  "type": "ntnhcore:legacy_backpack",
+  "pattern": [
+    "XXX",
+    "XaX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:purple_wool"
+    },
+    "a": {
+      "tag": "ntnhcore:legacy_backpacks"
+    }
+  },
+  "result": {
+    "item": "travelersbackpack:standard",
+    "nbt": "{\"Color\": 8991416}"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "ABA",
+    " A "
+  ],
+  "key": {
+    "A": {
+      "tag": "c:plates/steel"
+    },
+    "B": {
+      "tag": "storagedrawers:drawers"
+    }
+  },
+  "result": {
+    "item": "storagedrawers:controller",
+    "count": 1
+  }
+}

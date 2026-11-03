@@ -1,0 +1,86 @@
+{
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "particle": "ntnhcore:block/certus_ore_stone",
+    "stone": "ntnhcore:block/certus_ore_stone",
+    "ore": "ntnhcore:block/certus_ore_overlay"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        16,
+        16,
+        16
+      ],
+      "faces": {
+        "up": {
+          "texture": "#stone",
+          "cullface": "up"
+        },
+        "down": {
+          "texture": "#stone",
+          "cullface": "down"
+        },
+        "north": {
+          "texture": "#stone",
+          "cullface": "north"
+        },
+        "south": {
+          "texture": "#stone",
+          "cullface": "south"
+        },
+        "east": {
+          "texture": "#stone",
+          "cullface": "east"
+        },
+        "west": {
+          "texture": "#stone",
+          "cullface": "west"
+        }
+      }
+    },
+    {
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        16,
+        16,
+        16
+      ],
+      "faces": {
+        "up": {
+          "texture": "#ore",
+          "cullface": "up"
+        },
+        "down": {
+          "texture": "#ore",
+          "cullface": "down"
+        },
+        "north": {
+          "texture": "#ore",
+          "cullface": "north"
+        },
+        "south": {
+          "texture": "#ore",
+          "cullface": "south"
+        },
+        "east": {
+          "texture": "#ore",
+          "cullface": "east"
+        },
+        "west": {
+          "texture": "#ore",
+          "cullface": "west"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "ntnhcore:quest_85249": {
+    "name": "Карта квантового моста",
+    "texture": "minecraft:textures/item/ender_eye.png",
+    "width": 16,
+    "height": 16
+  },
+  "ntnhcore:quest_88833": {
+    "name": "Инструмент визуализации сети",
+    "texture": "minecraft:textures/item/compass.png",
+    "width": 16,
+    "height": 16
+  },
+  "ntnhcore:quest_91137": {
+    "name": "Беспроводные коннекторы",
+    "texture": "minecraft:textures/item/ender_pearl.png",
+    "width": 16,
+    "height": 16
+  },
+  "ntnhcore:quest_94977": {
+    "name": "#{aa0000}**MEGAKILL!**",
+    "texture": "minecraft:textures/item/redstone.png",
+    "width": 16,
+    "height": 16
+  },
+  "ntnhcore:quest_3073": {
+    "name": "Рюкзаки и исследование",
+    "texture": "minecraft:textures/item/bundle.png",
+    "width": 16,
+    "height": 16
+  },
+  "ntnhcore:quest_11009": {
+    "name": "Образцы породы",
+    "texture": "minecraft:textures/item/spyglass.png",
+    "width": 16,
+    "height": 16
+  },
+  "ntnhcore:quest_11265": {
+    "name": "Геологическая Разведка",
+    "texture": "minecraft:textures/item/map.png",
+    "width": 16,
+    "height": 16
+  },
+  "ntnhcore:quest_12545": {
+    "name": "Конвертер HE в RF",
+    "texture": "ntnhcore:textures/quest_icons/12545.png",
+    "width": 16,
+    "height": 16
+  },
+  "ntnhcore:quest_14081": {
+    "name": "Известные проблемы",
+    "texture": "minecraft:textures/item/book.png",
+    "width": 16,
+    "height": 16
+  },
+  "ntnhcore:quest_18177": {
+    "name": "Радиальный двигатель",
+    "texture": "ntnhcore:textures/quest_icons/18177.png",
+    "width": 16,
+    "height": 16
+  },
+  "ntnhcore:quest_38913": {
+    "name": "Транспортные дроны",
+    "texture": "ntnhcore:textures/quest_icons/38913.png",
+    "width": 66,
+    "height": 76
+  },
+  "ntnhcore:quest_47361": {
+    "name": "Обработка бедроковой руды с использованием высокоэффективного растворителя",
+    "texture": "ntnhcore:textures/quest_icons/47361.png",
+    "width": 64,
+    "height": 128
+  },
+  "ntnhcore:quest_100353": {
+    "name": "Основа карты",
+    "texture": "ntnhcore:textures/quest_icons/100353.png",
+    "width": 16,
+    "height": 16
+  },
+  "ntnhcore:quest_100609": {
+    "name": "Компонентные шины",
+    "texture": "ntnhcore:textures/quest_icons/100609.png",
+    "width": 16,
+    "height": 16
+  },
+  "ntnhcore:quest_100865": {
+    "name": "Компьютер",
+    "texture": "ntnhcore:textures/quest_icons/100865.png",
+    "width": 16,
+    "height": 16
+  },
+  "ntnhcore:quest_101121": {
+    "name": "Компьютерные корпусы",
+    "texture": "ntnhcore:textures/quest_icons/101121.png",
+    "width": 16,
+    "height": 16
+  },
+  "ntnhcore:quest_101377": {
+    "name": "Единицы управления и арифметики",
+    "texture": "ntnhcore:textures/quest_icons/101377.png",
+    "width": 16,
+    "height": 16
+  },
+  "ntnhcore:quest_101633": {
+    "name": "Процессоры",
+    "texture": "ntnhcore:textures/quest_icons/101633.png",
+    "width": 16,
+    "height": 16
+  },
+  "ntnhcore:quest_101889": {
+    "name": "Электронный сборщик",
+    "texture": "ntnhcore:textures/quest_icons/101889.png",
+    "width": 16,
+    "height": 16
+  },
+  "ntnhcore:quest_102145": {
+    "name": "Дискеты и дисковод",
+    "texture": "ntnhcore:textures/quest_icons/102145.png",
+    "width": 16,
+    "height": 16
+  },
+  "ntnhcore:quest_102401": {
+    "name": "Видеокарты",
+    "texture": "ntnhcore:textures/quest_icons/102401.png",
+    "width": 16,
+    "height": 16
+  },
+  "ntnhcore:quest_102657": {
+    "name": "Жёсткие диски",
+    "texture": "ntnhcore:textures/quest_icons/102657.png",
+    "width": 16,
+    "height": 16
+  },
+  "ntnhcore:quest_102913": {
+    "name": "Интернет-карта",
+    "texture": "ntnhcore:textures/quest_icons/102913.png",
+    "width": 16,
+    "height": 32
+  },
+  "ntnhcore:quest_103169": {
+    "name": "Память",
+    "texture": "ntnhcore:textures/quest_icons/103169.png",
+    "width": 16,
+    "height": 16
+  },
+  "ntnhcore:quest_103425": {
+    "name": "Микрочипы",
+    "texture": "ntnhcore:textures/quest_icons/103425.png",
+    "width": 16,
+    "height": 16
+  },
+  "ntnhcore:quest_103681": {
+    "name": "OC энергия",
+    "texture": "ntnhcore:textures/quest_icons/103681.png",
+    "width": 16,
+    "height": 16
+  },
+  "ntnhcore:quest_103937": {
+    "name": "PWRangler",
+    "texture": "ntnhcore:textures/quest_icons/103937.png",
+    "width": 16,
+    "height": 16
+  },
+  "ntnhcore:quest_104193": {
+    "name": "Экраны",
+    "texture": "ntnhcore:textures/quest_icons/104193.png",
+    "width": 16,
+    "height": 16
+  },
+  "ntnhcore:quest_104449": {
+    "name": "Серверы",
+    "texture": "ntnhcore:textures/quest_icons/104449.png",
+    "width": 16,
+    "height": 16
+  },
+  "ntnhcore:quest_104705": {
+    "name": "Транзисторы",
+    "texture": "ntnhcore:textures/quest_icons/104705.png",
+    "width": 16,
+    "height": 16
+  },
+  "ntnhcore:quest_105217": {
+    "name": "Беспроводная сетевая карта",
+    "texture": "ntnhcore:textures/quest_icons/105217.png",
+    "width": 16,
+    "height": 16
+  },
+  "ntnhcore:quest_105473": {
+    "name": "Трейд мешков LV1 > LV2",
+    "texture": "ntnhcore:textures/quest_icons/105473.png",
+    "width": 16,
+    "height": 16
+  },
+  "ntnhcore:quest_105729": {
+    "name": "Трейд мешков LV2 > LV3",
+    "texture": "ntnhcore:textures/quest_icons/105729.png",
+    "width": 16,
+    "height": 16
+  },
+  "ntnhcore:quest_105985": {
+    "name": "Трейд мешков LV3.5 > LV4",
+    "texture": "ntnhcore:textures/quest_icons/105985.png",
+    "width": 16,
+    "height": 16
+  },
+  "ntnhcore:quest_106241": {
+    "name": "Трейд мешков LV3 > LV3.5",
+    "texture": "ntnhcore:textures/quest_icons/106241.png",
+    "width": 16,
+    "height": 16
+  },
+  "ntnhcore:quest_106497": {
+    "name": "Трейд мешков LV3 > LV4",
+    "texture": "ntnhcore:textures/quest_icons/106497.png",
+    "width": 16,
+    "height": 16
+  },
+  "ntnhcore:quest_89601": {
+    "name": "Параллелизация P2P интерфейса",
+    "texture": "minecraft:textures/item/map.png",
+    "width": 16,
+    "height": 16
+  },
+  "ntnhcore:quest_96257": {
+    "name": "Время убивать (Странник Края)",
+    "texture": "minecraft:textures/item/ender_pearl.png",
+    "width": 16,
+    "height": 16
+  },
+  "ntnhcore:quest_16385": {
+    "name": "Упаковочная лента",
+    "texture": "ntnhcore:textures/quest_icons/16385.png",
+    "width": 16,
+    "height": 16
+  },
+  "ntnhcore:quest_94209": {
+    "name": "Система голода",
+    "texture": "minecraft:textures/item/cooked_beef.png",
+    "width": 16,
+    "height": 16
+  },
+  "ntnhcore:quest_104961": {
+    "name": "Добро пожаловать в OC!",
+    "texture": "ntnhcore:textures/quest_icons/104961.png",
+    "width": 16,
+    "height": 16
+  },
+  "ntnhcore:quest_83969": {
+    "name": "Камера роста кристаллов",
+    "texture": "minecraft:textures/item/amethyst_shard.png",
+    "width": 16,
+    "height": 16
+  },
+  "ntnhcore:quest_85505": {
+    "name": "Интерфейс P2P",
+    "texture": "ntnhcore:textures/quest_icons/85505.png",
+    "width": 16,
+    "height": 16
+  },
+  "ntnhcore:quest_90113": {
+    "name": "Карта вместимости шаблонов",
+    "texture": "ntnhcore:textures/quest_icons/90113.png",
+    "width": 16,
+    "height": 16
+  },
+  "ntnhcore:quest_91905": {
+    "name": "ArchitectureCraft",
+    "texture": "ntnhcore:textures/quest_icons/91905.png",
+    "width": 16,
+    "height": 16
+  },
+  "ntnhcore:quest_92673": {
+    "name": "Строительный гаджет",
+    "texture": "minecraft:textures/item/stick.png",
+    "width": 16,
+    "height": 16
+  },
+  "ntnhcore:quest_93185": {
+    "name": "Modern Markings",
+    "texture": "ntnhcore:textures/quest_icons/93185.png",
+    "width": 16,
+    "height": 16
+  },
+  "ntnhcore:quest_45569": {
+    "name": "Гравипушка",
+    "texture": "minecraft:textures/item/crossbow.png",
+    "width": 16,
+    "height": 16
+  },
+  "ntnhcore:quest_72193": {
+    "name": "Край космоса...",
+    "texture": "ntnhcore:textures/quest_icons/72193.png",
+    "width": 16,
+    "height": 16
+  }
+}

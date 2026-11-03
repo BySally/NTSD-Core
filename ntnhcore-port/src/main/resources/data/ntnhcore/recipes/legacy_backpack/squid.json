@@ -1,0 +1,22 @@
+{
+  "type": "ntnhcore:legacy_backpack",
+  "pattern": [
+    "BIB",
+    "IaI",
+    "BIB"
+  ],
+  "key": {
+    "a": {
+      "tag": "ntnhcore:legacy_backpacks"
+    },
+    "B": {
+      "item": "minecraft:blue_wool"
+    },
+    "I": {
+      "item": "minecraft:ink_sac"
+    }
+  },
+  "result": {
+    "item": "travelersbackpack:squid"
+  }
+}

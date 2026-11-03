@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "BCB"
+  ],
+  "key": {
+    "A": {
+      "tag": "forge:gems/fluix"
+    },
+    "B": {
+      "tag": "c:plates_cast/steel"
+    },
+    "C": {
+      "item": "ae2:engineering_processor"
+    }
+  },
+  "result": {
+    "item": "ae2:formation_plane",
+    "count": 1
+  }
+}

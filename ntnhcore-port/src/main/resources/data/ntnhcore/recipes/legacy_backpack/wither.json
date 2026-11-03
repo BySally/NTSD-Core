@@ -1,0 +1,28 @@
+{
+  "type": "ntnhcore:legacy_backpack",
+  "pattern": [
+    "SSS",
+    "sas",
+    "NsD"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:wither_skeleton_skull"
+    },
+    "s": {
+      "item": "minecraft:soul_sand"
+    },
+    "N": {
+      "item": "minecraft:nether_star"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "a": {
+      "tag": "ntnhcore:legacy_backpacks"
+    }
+  },
+  "result": {
+    "item": "travelersbackpack:wither"
+  }
+}

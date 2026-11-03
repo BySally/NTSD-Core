@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "expatternprovider:wireless_advanced_tool"
+    }
+  ],
+  "result": {
+    "item": "expatternprovider:wireless_advanced_tool",
+    "count": 1
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "ntnhcore:legacy_backpack",
+  "pattern": [
+    "QwQ",
+    "NaN",
+    "QLQ"
+  ],
+  "key": {
+    "Q": {
+      "item": "minecraft:quartz"
+    },
+    "N": {
+      "item": "minecraft:netherrack"
+    },
+    "w": {
+      "item": "minecraft:nether_wart"
+    },
+    "L": {
+      "item": "minecraft:lava_bucket"
+    },
+    "a": {
+      "tag": "ntnhcore:legacy_backpacks"
+    }
+  },
+  "result": {
+    "item": "travelersbackpack:nether"
+  }
+}

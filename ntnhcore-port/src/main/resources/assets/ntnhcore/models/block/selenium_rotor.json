@@ -1,0 +1,9 @@
+{
+  "loader": "forge:obj",
+  "model": "ntnhcore:models/block/selenium_rotor.obj",
+  "flip_v": true,
+  "ambientocclusion": false,
+  "textures": {
+    "particle": "ntnhcore:block/selenium_rotor"
+  }
+}

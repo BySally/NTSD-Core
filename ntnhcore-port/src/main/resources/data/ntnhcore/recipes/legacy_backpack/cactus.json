@@ -1,0 +1,25 @@
+{
+  "type": "ntnhcore:legacy_backpack",
+  "pattern": [
+    "CGC",
+    "CaC",
+    "SSS"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:cactus"
+    },
+    "G": {
+      "item": "minecraft:green_dye"
+    },
+    "a": {
+      "tag": "ntnhcore:legacy_backpacks"
+    },
+    "S": {
+      "item": "minecraft:sand"
+    }
+  },
+  "result": {
+    "item": "travelersbackpack:cactus"
+  }
+}

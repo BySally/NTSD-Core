@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A",
+    "B "
+  ],
+  "key": {
+    "A": {
+      "item": "hbm:plate_iron"
+    },
+    "B": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "result": {
+    "item": "chisel:iron_chisel",
+    "count": 1
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "ntnhcore:legacy_backpack",
+  "pattern": [
+    "LGL",
+    "TCT",
+    "LSL"
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:leather"
+    },
+    "G": {
+      "tag": "forge:ingots/gold"
+    },
+    "T": {
+      "item": "travelersbackpack:backpack_tank"
+    },
+    "S": {
+      "item": "travelersbackpack:red_sleeping_bag"
+    },
+    "C": {
+      "item": "minecraft:chest"
+    }
+  },
+  "result": {
+    "item": "travelersbackpack:standard"
+  }
+}

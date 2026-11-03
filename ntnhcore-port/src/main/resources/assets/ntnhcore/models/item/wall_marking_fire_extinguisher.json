@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "ntnhcore:block/legacy_marking_wall_fire_extinguisher"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ntnhcore:block/floor_marking_green_sideline"
+    },
+    "facing=south": {
+      "model": "ntnhcore:block/floor_marking_green_sideline",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "ntnhcore:block/floor_marking_green_sideline",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "ntnhcore:block/floor_marking_green_sideline",
+      "y": 270
+    }
+  }
+}

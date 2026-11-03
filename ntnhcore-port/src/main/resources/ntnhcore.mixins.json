@@ -1,0 +1,32 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.ntnh.ntnhcore.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "BQProfileShutdownMixin",
+    "DrawerTapeAttributesMixin",
+    "DrawerTapeBlockMixin",
+    "DrawerTapeEntityMixin",
+    "DrawerContentsDropMixin",
+    "WirelessConnectorMixin",
+    "WirelessHubMixin",
+    "WirelessRangeMixin",
+    "WirelessLinkMixin",
+    "ExtendedAEOptionalLootMixin",
+    "LegacyBackpackCapacityMixin",
+    "HbmPlanetOreOrderMixin",
+    "HbmPopulateOreFilterMixin",
+    "HbmWorld17OreFilterMixin",
+    "PncDroneRecipeJsonMixin"
+  ],
+  "client": [
+    "BQQuestKeyMixin",
+    "BQLocaleUtf8Mixin",
+    "BQQuestTextMixin",
+    "BQQuestLocaleMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

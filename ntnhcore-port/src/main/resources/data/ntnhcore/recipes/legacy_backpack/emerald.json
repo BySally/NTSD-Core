@@ -1,0 +1,25 @@
+{
+  "type": "ntnhcore:legacy_backpack",
+  "pattern": [
+    "GEG",
+    "GaG",
+    "eGe"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "E": {
+      "item": "minecraft:emerald_block"
+    },
+    "a": {
+      "tag": "ntnhcore:legacy_backpacks"
+    },
+    "e": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "travelersbackpack:emerald"
+  }
+}

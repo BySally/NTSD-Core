@@ -1,0 +1,11 @@
+Individual asset terms, no blanket GPL/ARR claim:
+- Legacy ModernMarkings block art: original GPLv3, see included original LICENSE.
+- Legacy HBM machine art/models and five quest icons: HbmMods/HBM contributors, GPLv3; see HBM source notices.
+- AE2 legacy ores and two quest icons: AlgorithmX2/GTNH contributors, CC BY-NC-SA 3.0 https://creativecommons.org/licenses/by-nc-sa/3.0/ ; source https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial .
+- OpenComputers 20 icon textures only: Sangar / OpenComputers contributors, MIT; original mod NOT ported/included.
+- EnhancedLootBags five icons: original GPLv3, included notice.
+- StorageDrawers tape and icon: jaquadro, MIT, included notice.
+- ArchitectureCraft single sawbench icon: original MIT, included APortNeeded license and credits.
+- Quest book item art and adapted quest material: original Better Questing / NTNH origin; retain original notices and NTNH attribution. Quest code/data/IDs unchanged in this candidate.
+- NTSD background: BySally project art, AI-generated with OpenAI; no automatic exclusive copyright claim.
+- 14 icon textures with uncertain source-specific scope omitted; original icon IDs preserved with installed vanilla texture references. No Mojang pixel data copied.

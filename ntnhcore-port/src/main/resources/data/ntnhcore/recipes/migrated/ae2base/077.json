@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "C C",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "tag": "c:plates_cast/steel"
+    },
+    "B": {
+      "item": "ae2:engineering_processor"
+    },
+    "C": {
+      "item": "ae2:fluix_glass_cable"
+    }
+  },
+  "result": {
+    "item": "ae2:drive",
+    "count": 1
+  }
+}

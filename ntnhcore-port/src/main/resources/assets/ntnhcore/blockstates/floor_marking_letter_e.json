@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ntnhcore:block/floor_marking_letter_e"
+    },
+    "facing=south": {
+      "model": "ntnhcore:block/floor_marking_letter_e",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "ntnhcore:block/floor_marking_letter_e",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "ntnhcore:block/floor_marking_letter_e",
+      "y": 270
+    }
+  }
+}

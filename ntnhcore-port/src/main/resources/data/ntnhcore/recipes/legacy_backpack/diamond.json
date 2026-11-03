@@ -1,0 +1,25 @@
+{
+  "type": "ntnhcore:legacy_backpack",
+  "pattern": [
+    "GDG",
+    "GaG",
+    "GdG"
+  ],
+  "key": {
+    "G": {
+      "tag": "forge:glass/colorless"
+    },
+    "D": {
+      "tag": "forge:storage_blocks/diamond"
+    },
+    "a": {
+      "tag": "ntnhcore:legacy_backpacks"
+    },
+    "d": {
+      "tag": "forge:gems/diamond"
+    }
+  },
+  "result": {
+    "item": "travelersbackpack:diamond"
+  }
+}

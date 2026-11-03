@@ -1,0 +1,52 @@
+[
+  {
+    "filename": "travelersbackpack-forge-1.20.1-9.1.58.jar",
+    "sha256": "90c4a7d36389c5ef6915fad6eb62c7bc5516a94dc1274dece89609c4f261f16e",
+    "size": 1435341
+  },
+  {
+    "filename": "BetterQuesting-Forge-1.20.1-4.0.71.jar",
+    "sha256": "5421d11efb31013f99f5ef7b1d9bfe3f29eceb0f526f1c1a3208f8ab2159e1d2",
+    "size": 1849278
+  },
+  {
+    "filename": "StandardExpansion-Forge-1.20.1-4.0.36.jar",
+    "sha256": "184e6d65255e1668243859705d42e4e8e90ce8cca444ce2145f09f149de2e960",
+    "size": 469282
+  },
+  {
+    "filename": "hbm-forge-1.0.3-1.20.1.jar",
+    "sha256": "9cdae21bcdb0dba238d482d925faf00e99d0ff1b27a349a2f39ba25a09c3c6e1",
+    "size": 70678785
+  },
+  {
+    "filename": "golemcore-forge-1.0.3-1.20.1.jar",
+    "sha256": "b98db399f8f1930b91e2006f4a243d0a9d7731a7df0030e6cd17b3dbb200993f",
+    "size": 2370357
+  },
+  {
+    "filename": "chisel-1.20.1-Forge-1.3.3.jar",
+    "sha256": "edd29cfc0ab2c36a2908b243c8acf9685be4e07e9db1deffda7de984994843e1",
+    "size": 11865530
+  },
+  {
+    "filename": "StorageDrawers-forge-1.20.1-12.15.1.jar",
+    "sha256": "5b9fc30a0c7988292bf169ce4a1379f304c97cda3fc7a226d98c2faeac0c07b8",
+    "size": 1205432
+  },
+  {
+    "filename": "ExtendedAE-1.20-1.4.21-forge.jar",
+    "sha256": "30fc8abe66d4b96919f0fd7b33badd0bb2013b31e2ee57f6aeaa63ffae37df4b",
+    "size": 2972843
+  },
+  {
+    "filename": "Glodium-1.20-1.5-forge.jar",
+    "sha256": "fc419cb5bf511750c0a2da498b925f5122ac4f78617aca6630fe80abf0b6f460",
+    "size": 60550
+  },
+  {
+    "filename": "appliedenergistics2-forge-15.4.12.jar",
+    "sha256": "b9c5928893a20d3feb0b4393e2c23d756a16d9abee24d9c14c98e6096d53844d",
+    "size": 8501298
+  }
+]

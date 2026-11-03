@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "BBB",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "hbm:mass_storage_wood"
+    },
+    "B": {
+      "tag": "minecraft:wooden_slabs"
+    }
+  },
+  "result": {
+    "item": "storagedrawers:oak_half_drawers_4",
+    "count": 4
+  }
+}

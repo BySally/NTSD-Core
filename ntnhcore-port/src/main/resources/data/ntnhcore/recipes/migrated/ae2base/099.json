@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "BCB",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "tag": "c:plates_welded/steel"
+    },
+    "B": {
+      "item": "ae2:quartz_glass"
+    },
+    "C": {
+      "tag": "forge:dusts/fluix"
+    }
+  },
+  "result": {
+    "item": "ae2:condenser",
+    "count": 1
+  }
+}

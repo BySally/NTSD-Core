@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A A",
+    "A A",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "tag": "c:plates/lead"
+    }
+  },
+  "result": {
+    "item": "minecraft:cauldron",
+    "count": 1
+  }
+}

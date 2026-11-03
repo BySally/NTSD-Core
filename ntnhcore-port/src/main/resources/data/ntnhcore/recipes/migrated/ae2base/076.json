@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "ABA",
+    " A "
+  ],
+  "key": {
+    "A": {
+      "tag": "forge:ingots/pc"
+    },
+    "B": {
+      "item": "hbm:circuit_chip_bismoid"
+    }
+  },
+  "result": {
+    "item": "ae2:blank_pattern",
+    "count": 4
+  }
+}

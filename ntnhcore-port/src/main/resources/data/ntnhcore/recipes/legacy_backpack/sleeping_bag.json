@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  X",
+    "CCC"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:white_wool"
+    },
+    "C": {
+      "item": "minecraft:white_carpet"
+    }
+  },
+  "result": {
+    "item": "travelersbackpack:red_sleeping_bag"
+  }
+}

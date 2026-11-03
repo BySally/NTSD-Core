@@ -1,0 +1,161 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "facing": "north",
+        "slots": "open1"
+      },
+      "apply": {
+        "model": "storagedrawers:block/half_compdrawers_3_open1"
+      }
+    },
+    {
+      "when": {
+        "facing": "south",
+        "slots": "open1"
+      },
+      "apply": {
+        "model": "storagedrawers:block/half_compdrawers_3_open1",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "facing": "west",
+        "slots": "open1"
+      },
+      "apply": {
+        "model": "storagedrawers:block/half_compdrawers_3_open1",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "facing": "east",
+        "slots": "open1"
+      },
+      "apply": {
+        "model": "storagedrawers:block/half_compdrawers_3_open1",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "facing": "north",
+        "slots": "open2"
+      },
+      "apply": {
+        "model": "storagedrawers:block/half_compdrawers_3_open2"
+      }
+    },
+    {
+      "when": {
+        "facing": "south",
+        "slots": "open2"
+      },
+      "apply": {
+        "model": "storagedrawers:block/half_compdrawers_3_open2",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "facing": "west",
+        "slots": "open2"
+      },
+      "apply": {
+        "model": "storagedrawers:block/half_compdrawers_3_open2",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "facing": "east",
+        "slots": "open2"
+      },
+      "apply": {
+        "model": "storagedrawers:block/half_compdrawers_3_open2",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "facing": "north",
+        "slots": "open3"
+      },
+      "apply": {
+        "model": "storagedrawers:block/half_compdrawers_3_open3"
+      }
+    },
+    {
+      "when": {
+        "facing": "south",
+        "slots": "open3"
+      },
+      "apply": {
+        "model": "storagedrawers:block/half_compdrawers_3_open3",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "facing": "west",
+        "slots": "open3"
+      },
+      "apply": {
+        "model": "storagedrawers:block/half_compdrawers_3_open3",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "facing": "east",
+        "slots": "open3"
+      },
+      "apply": {
+        "model": "storagedrawers:block/half_compdrawers_3_open3",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "facing": "north",
+        "ntnh_sealed": "true"
+      },
+      "apply": {
+        "model": "ntnhcore:block/drawer_tape_half",
+        "y": 0
+      }
+    },
+    {
+      "when": {
+        "facing": "east",
+        "ntnh_sealed": "true"
+      },
+      "apply": {
+        "model": "ntnhcore:block/drawer_tape_half",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "facing": "south",
+        "ntnh_sealed": "true"
+      },
+      "apply": {
+        "model": "ntnhcore:block/drawer_tape_half",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "facing": "west",
+        "ntnh_sealed": "true"
+      },
+      "apply": {
+        "model": "ntnhcore:block/drawer_tape_half",
+        "y": 270
+      }
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+HBM Nuclear Tech Mod, HbmMods and contributors; GNU GPL v3.
+Source reference: supplied HBM-NTM-[1.0.27_X5806_NTNH].jar (TileEntityMachineSeleniumEngine, MachineSeleniumEngine, ContainerMachineSelenium, GUIMachineSelenium, RenderSelenium and CraftingManager).
+Original model geometry, UVs, GUI and textures retained; OBJ material declarations and item composition adapted to Forge.
+https://github.com/HbmMods/Hbm-s-Nuclear-Tech-GIT
+Corresponding adapted source supplied in developer/ntnhcore-port.

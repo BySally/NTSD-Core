@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ntnhcore:block/wall_marking_symbol_radiation_2"
+    },
+    "facing=south": {
+      "model": "ntnhcore:block/wall_marking_symbol_radiation_2",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "ntnhcore:block/wall_marking_symbol_radiation_2",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "ntnhcore:block/wall_marking_symbol_radiation_2",
+      "y": 270
+    }
+  }
+}

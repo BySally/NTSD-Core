@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "STS",
+    "SRS"
+  ],
+  "key": {
+    "P": {
+      "tag": "forge:pipes/dura_steel"
+    },
+    "T": {
+      "tag": "forge:pipes/steel"
+    },
+    "S": {
+      "tag": "forge:ingots/steel"
+    },
+    "R": {
+      "item": "hbm:red_cable"
+    }
+  },
+  "result": {
+    "item": "ntnhcore:machine_selenium"
+  }
+}

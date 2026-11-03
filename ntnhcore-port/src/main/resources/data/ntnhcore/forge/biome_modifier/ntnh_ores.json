@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#ntnhcore:affected_biomes",
+  "features": "ntnhcore:ntnh_ores",
+  "step": "underground_ores"
+}
