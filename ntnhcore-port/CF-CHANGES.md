@@ -1,4 +1,14 @@
-# NTSD Core CF4 candidate: font restoration and retained fixes
+# NTSD Core CF5 candidate: Nether quartz generation fix
+
+Version: **0.1.0-ntsd-cf5**, based on the exact CF4 corresponding source.
+
+- Corrects only the `NetherQuartz` distribution's dimension from `minecraft:overworld` to `minecraft:the_nether` and its hosts to `minecraft:netherrack`.
+- Leaves frequency, height, size, density, all other ore distributions and biome feature registration unchanged.
+- Keeps native Nether quartz generation. The existing custom feature is not added to Nether biomes, avoiding duplicate quartz generation.
+- No regeneration of saved chunks, no registry ID changes, no quest/recipe/font changes.
+- CF4 binary and source remain preserved as historical references. CF5 requires its own corresponding-source publication and real CurseForge File ID before pack submission; never reuse CF4 File ID 9414966 for this binary.
+
+## Retained CF4 font restoration and earlier fixes
 
 Existing gameplay IDs, quests, NTNH recipes and progression are unchanged. Core version 0.1.0-ntsd-cf4. The following earlier CF2/CF3 privacy and resource fixes are retained.
 

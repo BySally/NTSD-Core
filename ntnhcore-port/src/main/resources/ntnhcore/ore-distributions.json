@@ -1320,20 +1320,10 @@
     "name": "NetherQuartz",
     "ore": "minecraft:nether_quartz_ore",
     "properties": {},
-    "dimension": "minecraft:overworld",
+    "dimension": "minecraft:the_nether",
     "biomes": [],
     "hosts": [
-      "#stone",
-      "minecraft:cobblestone",
-      "ntmspace:moon_rock",
-      "ntmspace:duna_rock",
-      "ntmspace:dres_rock",
-      "ntmspace:eve_rock",
-      "ntmspace:ike_stone",
-      "ntmspace:minmus_stone",
-      "ntmspace:moho_stone",
-      "ntmspace:vinyl_sand",
-      "hbm:basalt"
+      "minecraft:netherrack"
     ],
     "veins": false,
     "frequency": 16,

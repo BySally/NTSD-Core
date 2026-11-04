@@ -1,15 +1,15 @@
 {
-  "version": "0.1.0-ntsd-cf4",
-  "tag": "v0.1.0-ntsd-cf4",
+  "version": "0.1.0-ntsd-cf5",
+  "tag": "v0.1.0-ntsd-cf5",
   "source_subdirectory": "ntnhcore-port",
   "source_files": 1358,
-  "source_archive": "ntnhcore-0.1.0-ntsd-cf4-corresponding-source.zip",
-  "source_archive_url": "https://github.com/BySally/NTSD-Core/releases/download/v0.1.0-ntsd-cf4/ntnhcore-0.1.0-ntsd-cf4-corresponding-source.zip",
-  "source_archive_sha256": "6efac932c546dcbd89b14d5824ddf13ec6bf22bb600bdc667aded73b0a117307",
-  "tested_binary": "ntnhcore-0.1.0-ntsd-cf4.jar",
-  "tested_binary_sha256": "4a4919433050c87421eeacfef882d8c5e5cdd0e7f9880b8526724d497883a6c0",
+  "source_archive": "ntnhcore-0.1.0-ntsd-cf5-corresponding-source.zip",
+  "source_archive_url": "https://github.com/BySally/NTSD-Core/releases/download/v0.1.0-ntsd-cf5/ntnhcore-0.1.0-ntsd-cf5-corresponding-source.zip",
+  "source_archive_sha256": "63063e0eeab09bcb7b7d994bc621732503b32ff4ec6d8cff9d85d52cbc1723a6",
+  "tested_binary": "ntnhcore-0.1.0-ntsd-cf5.jar",
+  "tested_binary_sha256": "15914025a5b7cbd932750074016ed4d2c2da287b10ce1de09ae3aedc22ea94c2",
   "minecraft": "1.20.1",
   "forge": "47.4.28",
   "java": 17,
-  "previous_clean_rebuild": "all classes and resources identical; only generated manifest timestamp differs"
+  "verification": "Version-matched CF5 build inputs. All compiled classes and other gameplay resources match CF4 apart from the targeted ore-distribution JSON."
 }
